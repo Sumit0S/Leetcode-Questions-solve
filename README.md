@@ -4,6 +4,7 @@
 # Two Pointers
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
 | [0344-reverse-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0344-reverse-string) |
 # String
 |  |
@@ -13,6 +14,7 @@
 # Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 # Recursion
 |  |
@@ -26,4 +28,5 @@
 # Array
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1878-check-if-array-is-sorted-and-rotated) |
