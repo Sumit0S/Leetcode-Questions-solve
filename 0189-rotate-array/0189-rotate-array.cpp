@@ -1,7 +1,7 @@
 class Solution {
 public:
     void rotate(vector<int>& nums, int k){
-    int n = nums.size();
+        int n = nums.size();
         int rotations = k % n, regular = 0;
         if (rotations == 0)
             return;
