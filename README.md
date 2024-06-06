@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0344-reverse-string) |
 # String
 |  |
@@ -29,4 +30,5 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
+| [0283-move-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1878-check-if-array-is-sorted-and-rotated) |
