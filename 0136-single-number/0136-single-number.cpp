@@ -1,23 +1,10 @@
 class Solution {
 public:
     int singleNumber(vector<int>& nums) {
-    int n = nums.size();
-
-    // Declare the hashmap.
-    // And hash the given array:
-    map<int, int> mpp;
-    for (int i = 0; i < n; i++) {
-        mpp[nums[i]]++;
-    }
-
-    //Find the single element and return the answer:
-    for (auto it : mpp) {
-        if (it.second == 1)
-            return it.first;
-    }
-
-    //This line will never execute
-    //if the array contains a single element.
-    return -1;
+    int res=0;
+        for(int i=0;i<nums.size();i++){
+            res = res^nums[i];
+        }
+        return res;
     }
 };
