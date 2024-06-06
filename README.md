@@ -23,3 +23,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0010-regular-expression-matching) |
+# Array
+|  |
+| ------- |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1878-check-if-array-is-sorted-and-rotated) |
