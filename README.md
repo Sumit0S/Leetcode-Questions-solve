@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 # Recursion
 |  |
@@ -30,5 +31,22 @@
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+# Hash Table
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
+# Binary Search
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
+# Sorting
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
