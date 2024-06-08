@@ -5,13 +5,13 @@ public:
         std::ios_base::sync_with_stdio(false);
         std::cout.tie(0);
         vector<int> pos;
-  vector<int> neg;
-  int n=nums.size();
+        vector<int> neg;
+        int n=nums.size();
   // Segregate the array into positives and negatives.
-  for(int i=0;i<n;i++){
+        for(int i=0;i<n;i++){
       
-      if(nums[i]>0) pos.push_back(nums[i]);
-      else neg.push_back(nums[i]);
+        if(nums[i]>0) pos.push_back(nums[i]);
+        else neg.push_back(nums[i]);
   }
   
   // If positives are lesser than the negatives.
