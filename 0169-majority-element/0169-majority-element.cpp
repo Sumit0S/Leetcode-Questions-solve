@@ -21,17 +21,17 @@ public:
 
         }
      
-        // int cnt1=0;
-        // for(int i=0; i<nums.size(); i++){
-        //     if(nums[i]==el){
-        //         cnt1++;
-        //     }
+        int cnt1=0;
+        for(int i=0; i<nums.size(); i++){
+            if(nums[i]==el){
+                cnt1++;
+            }
             
-        // }
+        }
 
-        // if(cnt1>(nums.size()/2)){
-        //     return el;
-        // }
-        return el;
+        if(cnt1>(nums.size()/2)){
+            return el;
+        }
+        return -1;
     }
 };
