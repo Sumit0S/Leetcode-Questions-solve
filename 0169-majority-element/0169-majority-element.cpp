@@ -4,6 +4,7 @@ public:
     {
         int el;
         int cnt=0;
+        ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
         for(int i=0; i<nums.size(); i++){
             if(cnt==0){
                 el=nums[i];
