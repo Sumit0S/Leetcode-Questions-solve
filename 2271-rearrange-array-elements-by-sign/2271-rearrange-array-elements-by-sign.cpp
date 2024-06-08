@@ -2,6 +2,7 @@ class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums)
     {
+        ios_base::sync_with_stdio(0);
         std::ios_base::sync_with_stdio(false);
         std::cout.tie(0);
         vector<int> pos;
