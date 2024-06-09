@@ -47,6 +47,7 @@
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0485-max-consecutive-ones) |
+| [0560-subarray-sum-equals-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0560-subarray-sum-equals-k) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2271-rearrange-array-elements-by-sign) |
 # Hash Table
@@ -56,6 +57,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0169-majority-element) |
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
+| [0560-subarray-sum-equals-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0560-subarray-sum-equals-k) |
 # Binary Search
 |  |
 | ------- |
@@ -88,3 +90,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0073-set-matrix-zeroes) |
+# Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0560-subarray-sum-equals-k) |
