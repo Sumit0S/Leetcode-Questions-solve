@@ -3,6 +3,8 @@ public:
     void setZeroes(vector<vector<int>>& matrix) {
         int size=matrix.size();
         int var=1;
+        std::ios_base::sync_with_stdio(false);
+        std::cout.tie(0);
         if(size==0){
             return;
         }
