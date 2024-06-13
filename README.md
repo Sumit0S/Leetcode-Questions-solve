@@ -34,6 +34,7 @@
 | [0010-regular-expression-matching](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0010-regular-expression-matching) |
 | [0118-pascals-triangle](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0152-maximum-product-subarray](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0152-maximum-product-subarray) |
 # Array
 |  |
 | ------- |
@@ -47,6 +48,7 @@
 | [0118-pascals-triangle](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0136-single-number) |
+| [0152-maximum-product-subarray](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0229-majority-element-ii) |
