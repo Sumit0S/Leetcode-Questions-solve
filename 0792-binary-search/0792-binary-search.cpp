@@ -1,6 +1,9 @@
 class Solution {
 public:
     int search(vector<int>& nums, int target) {
+        ios_base::sync_with_stdio(0);
+        cin.tie(0);
+        
         int low=0;
         int high=nums.size()-1;
         int mid=low+((high-low)/2);
