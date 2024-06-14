@@ -41,6 +41,7 @@
 | [0001-two-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0001-two-sum) |
 | [0018-4sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0031-next-permutation) |
+| [0035-search-insert-position](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0048-rotate-image) |
 | [0056-merge-intervals](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0073-set-matrix-zeroes) |
@@ -71,6 +72,7 @@
 # Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0035-search-insert-position) |
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0792-binary-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0792-binary-search) |
 # Bit Manipulation
