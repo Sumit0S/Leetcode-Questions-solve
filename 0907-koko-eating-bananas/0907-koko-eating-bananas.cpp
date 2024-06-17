@@ -5,6 +5,7 @@ class Solution {
 public:
     int minEatingSpeed(std::vector<int>& piles, int h) {
         // Find the maximum number of bananas in a single pile
+        ios::sync_with_stdio(false);
         int n = *std::max_element(piles.begin(), piles.end());
         
         // Binary search initialization
