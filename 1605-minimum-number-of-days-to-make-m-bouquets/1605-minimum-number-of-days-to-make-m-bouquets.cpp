@@ -1,3 +1,19 @@
+#pragma GCC optimize("Ofast","inline","fast-math","unroll-loops","no-stack-protector")
+#pragma GCC target("sse,sse2,sse3,ssse3,sse4,popcnt,abm,mmx,avx,avx2,tune=native","f16c")
+
+static int fast_io = []() 
+{ 
+    std::ios::sync_with_stdio(false); 
+    cin.tie(nullptr); 
+    cout.tie(nullptr); 
+    return 0; 
+}();
+
+#ifdef LOCAL
+    freopen("input.txt", "r" , stdin);
+    freopen("output.txt", "w", stdout);
+#endif
+
 class Solution {
 public:
     bool possible(vector<int> bloomDay,int m ,int k , int day){
