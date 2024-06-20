@@ -72,6 +72,7 @@
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2047-find-a-peak-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2047-find-a-peak-element-ii) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2271-rearrange-array-elements-by-sign) |
 # Hash Table
 |  |
@@ -100,6 +101,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [2047-find-a-peak-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2047-find-a-peak-element-ii) |
 # Bit Manipulation
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2047-find-a-peak-element-ii) |
 # Prefix Sum
 |  |
 | ------- |
