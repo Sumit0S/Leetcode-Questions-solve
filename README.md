@@ -60,6 +60,7 @@
 | [0169-majority-element](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
 | [0229-majority-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0283-move-zeroes) |
 | [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
@@ -91,6 +92,7 @@
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0162-find-peak-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
 | [0792-binary-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0792-binary-search) |
@@ -117,6 +119,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0240-search-a-2d-matrix-ii) |
 # Counting
 |  |
 | ------- |
@@ -132,6 +135,7 @@
 | [0048-rotate-image](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0074-search-a-2d-matrix) |
+| [0240-search-a-2d-matrix-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0240-search-a-2d-matrix-ii) |
 # Prefix Sum
 |  |
 | ------- |
