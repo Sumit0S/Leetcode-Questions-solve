@@ -8,7 +8,7 @@ public:
     if (nums[0] > nums[1]) return 0;
     if (nums[n - 1] > nums[n - 2]) return n - 1;
 
-    int low = 1, high = n - 2;
+    int low = 1, high = n - 1;
     while (low <= high) {
         int mid = (low + high) / 2;
 
