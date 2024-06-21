@@ -20,6 +20,7 @@
 | [0151-reverse-words-in-a-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0344-reverse-string) |
+| [0451-sort-characters-by-frequency](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0451-sort-characters-by-frequency) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2032-largest-odd-number-in-string) |
 # Math
@@ -90,6 +91,7 @@
 | [0205-isomorphic-strings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0560-subarray-sum-equals-k) |
 # Binary Search
 |  |
@@ -124,6 +126,7 @@
 | [0169-majority-element](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0451-sort-characters-by-frequency) |
 # Divide and Conquer
 |  |
 | ------- |
@@ -135,6 +138,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0229-majority-element-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0451-sort-characters-by-frequency) |
 # Simulation
 |  |
 | ------- |
@@ -165,3 +169,11 @@
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0014-longest-common-prefix) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0451-sort-characters-by-frequency) |
+# Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0451-sort-characters-by-frequency) |
