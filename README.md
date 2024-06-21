@@ -16,6 +16,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0010-regular-expression-matching) |
+| [0013-roman-to-integer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0014-longest-common-prefix) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0205-isomorphic-strings) |
@@ -26,6 +27,7 @@
 # Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0048-rotate-image) |
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
@@ -86,6 +88,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0001-two-sum) |
+| [0013-roman-to-integer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0073-set-matrix-zeroes) |
 | [0169-majority-element](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0205-isomorphic-strings) |
