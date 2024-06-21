@@ -7,6 +7,7 @@
 | [0018-4sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0075-sort-colors) |
+| [0151-reverse-words-in-a-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0344-reverse-string) |
@@ -15,6 +16,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0010-regular-expression-matching) |
+| [0151-reverse-words-in-a-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0344-reverse-string) |
 # Math
 |  |
