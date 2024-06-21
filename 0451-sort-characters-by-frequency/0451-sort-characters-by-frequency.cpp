@@ -1,25 +1,29 @@
 class Solution {
 public:
-    string frequencySort(string s) {
-         
-         unordered_map<char, int> mp;
-         priority_queue<pair<int, int>> pq;
+    std::string frequencySort(std::string s) {
+        // Unordered map to store frequency of each character
+        std::unordered_map<char, int> mp;
+        
+        // Priority queue (max-heap) to store pairs of (frequency, character)
+        std::priority_queue<std::pair<int, char>> pq;
 
-         for(int i=0; i<s.size(); i++) {
-              mp[s[i]]++;
-         }
+        // Count the frequency of each character
+        for (char c : s) {
+            mp[c]++;
+        }
 
-         for(auto it : mp) {
+        // Push each character and its frequency to the priority queue
+        for (auto& it : mp) {
             pq.push({it.second, it.first});
-         }
+        }
 
-         string ans = "";
-
-         while(!pq.empty()) {
-            ans += string(pq.top().first, pq.top().second);
+        // Construct the result string
+        std::string ans = "";
+        while (!pq.empty()) {
+            ans += std::string(pq.top().first, pq.top().second);
             pq.pop();
-         } 
-         
-         return ans;
+        }
+
+        return ans;
     }
 };
