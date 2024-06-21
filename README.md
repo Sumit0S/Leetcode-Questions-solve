@@ -22,6 +22,7 @@
 | [0205-isomorphic-strings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0344-reverse-string) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0451-sort-characters-by-frequency) |
+| [0812-rotate-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0812-rotate-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2032-largest-odd-number-in-string) |
 # Math
@@ -180,3 +181,7 @@
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0451-sort-characters-by-frequency) |
+# String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0812-rotate-string) |
