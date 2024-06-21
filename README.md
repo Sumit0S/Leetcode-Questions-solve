@@ -18,6 +18,7 @@
 | [0010-regular-expression-matching](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0010-regular-expression-matching) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0344-reverse-string) |
+| [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
 # Math
 |  |
 | ------- |
@@ -150,3 +151,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
+# Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
