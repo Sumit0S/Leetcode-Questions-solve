@@ -20,7 +20,10 @@ public:
         // Construct the result string
         std::string ans = "";
         while (!pq.empty()) {
-            ans += std::string(pq.top().first, pq.top().second);
+            // ans += std::string(pq.top().first, pq.top().second);
+            for(int i=0; i<pq.top().first; i++){
+                ans+=pq.top().second;
+            }
             pq.pop();
         }
 
