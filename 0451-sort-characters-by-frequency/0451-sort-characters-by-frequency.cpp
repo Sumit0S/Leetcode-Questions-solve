@@ -1,32 +1,25 @@
 class Solution {
 public:
     string frequencySort(string s) {
-        // Frequency map to store frequency of each character
-        unordered_map<char, int> frequencyMap;
-        for (char c : s) {
-            frequencyMap[c]++;
-        }
+         
+         unordered_map<char, int> mp;
+         priority_queue<pair<int, int>> pq;
 
-        // Vector to store characters and their frequencies
-        vector<pair<char, int>> frequencyVector(frequencyMap.begin(), frequencyMap.end());
+         for(int i=0; i<s.size(); i++) {
+              mp[s[i]]++;
+         }
 
-        // Custom comparator for sorting
-        auto frequencyComparator = [](const pair<char, int> &a, const pair<char, int> &b) {
-            if (a.second == b.second) {
-                return a.first < b.first;
-            }
-            return a.second > b.second;
-        };
+         for(auto it : mp) {
+            pq.push({it.second, it.first});
+         }
 
-        // Sort the vector by frequency
-        sort(frequencyVector.begin(), frequencyVector.end(), frequencyComparator);
+         string ans = "";
 
-        // Build the result string
-        string result;
-        for (const auto &pair : frequencyVector) {
-            result.append(pair.second, pair.first); // Append character pair.second times
-        }
-
-        return result;
+         while(!pq.empty()) {
+            ans += string(pq.top().first, pq.top().second);
+            pq.pop();
+         } 
+         
+         return ans;
     }
 };
