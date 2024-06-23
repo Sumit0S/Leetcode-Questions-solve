@@ -187,6 +187,7 @@
 # String Matching
 |  |
 | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0008-string-to-integer-atoi) |
 | [0242-valid-anagram](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
