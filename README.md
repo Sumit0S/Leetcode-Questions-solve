@@ -98,6 +98,7 @@
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0451-sort-characters-by-frequency) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0560-subarray-sum-equals-k) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1890-sum-of-beauty-of-all-substrings) |
 # Binary Search
 |  |
 | ------- |
@@ -145,6 +146,7 @@
 | [0169-majority-element](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0229-majority-element-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0451-sort-characters-by-frequency) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1890-sum-of-beauty-of-all-substrings) |
 # Simulation
 |  |
 | ------- |
@@ -191,3 +193,4 @@
 | [0242-valid-anagram](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0242-valid-anagram) |
 | [0812-rotate-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1890-sum-of-beauty-of-all-substrings) |
