@@ -194,3 +194,7 @@
 | [0812-rotate-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0812-rotate-string) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1890-sum-of-beauty-of-all-substrings) |
+# Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0237-delete-node-in-a-linked-list) |
