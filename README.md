@@ -39,6 +39,7 @@
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0010-regular-expression-matching) |
+| [0206-reverse-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0206-reverse-linked-list) |
 | [2680-count-collisions-of-monkeys-on-a-polygon](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2680-count-collisions-of-monkeys-on-a-polygon) |
 # Dynamic Programming
 |  |
@@ -198,5 +199,6 @@
 # Linked List
 |  |
 | ------- |
+| [0206-reverse-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0908-middle-of-the-linked-list) |
