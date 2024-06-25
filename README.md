@@ -7,6 +7,7 @@
 | [0018-4sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0018-4sum) |
 | [0031-next-permutation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0075-sort-colors) |
+| [0142-linked-list-cycle-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0142-linked-list-cycle-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0151-reverse-words-in-a-string) |
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0283-move-zeroes) |
@@ -93,6 +94,7 @@
 | [0001-two-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0073-set-matrix-zeroes) |
+| [0142-linked-list-cycle-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0142-linked-list-cycle-ii) |
 | [0169-majority-element](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0229-majority-element-ii) |
@@ -199,6 +201,7 @@
 # Linked List
 |  |
 | ------- |
+| [0142-linked-list-cycle-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0206-reverse-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0908-middle-of-the-linked-list) |
