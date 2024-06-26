@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0018-4sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0018-4sum) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0031-next-permutation) |
 | [0075-sort-colors](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0075-sort-colors) |
 | [0142-linked-list-cycle-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0142-linked-list-cycle-ii) |
@@ -205,6 +206,7 @@
 # Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0142-linked-list-cycle-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0142-linked-list-cycle-ii) |
 | [0206-reverse-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
