@@ -18,6 +18,7 @@ public:
             delete head;
             return NULL;
         }
+        
         while(fast!=NULL and fast->next!=NULL){
             prev=slow;
             slow=slow->next;
