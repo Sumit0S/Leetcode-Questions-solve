@@ -4,31 +4,30 @@ public:
     {
         int i=0;
         int sign=1;
-        int ans=0;
-
-        while (i < s.size() && s[i] == ' ') {
+        long ans=0;
+        while(i<s.length() && s[i]==' ')
+            i++;
+        if(s[i]=='-')
+        {
+            sign=-1;
             i++;
         }
-
-
-        if (i < s.size() && (s[i] == '-' || s[i] == '+')) {
-            sign = (s[i] == '-') ? -1 : 1;
+        else if(s[i]=='+')
             i++;
-        }
-
-        while (i < s.size() && isdigit(s[i])) {
-            int digit = s[i] - '0';
-
-            // Check for overflow before updating ans
-            if (ans > (INT_MAX - digit) / 10) {
-                return (sign == 1) ? INT_MAX : INT_MIN;
+        while(i<s.length())
+        {
+            if(s[i]>='0' && s[i]<='9')
+            {
+                ans=ans*10+(s[i]-'0');
+                if(ans>INT_MAX && sign==-1)
+                    return INT_MIN;
+                else if(ans>INT_MAX && sign==1)
+                    return INT_MAX;
+                i++;
             }
-
-            ans = ans * 10 + digit;
-            i++;
+            else
+                return ans*sign;
         }
-
-        return (ans * sign);
-
+        return ans*sign;
     }
 };
