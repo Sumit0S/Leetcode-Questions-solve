@@ -24,13 +24,14 @@ public:
             mpp[temp]=new_node;
             temp=temp->next;
         }
-        
+
         temp=head;
 
         while(temp!=NULL){
             Node* copynode=mpp[temp];
             copynode->next=mpp[temp->next];
             copynode->random=mpp[temp->random];
+            mpp[temp]=copynode;
             temp=temp->next;
         }
         return mpp[head];
