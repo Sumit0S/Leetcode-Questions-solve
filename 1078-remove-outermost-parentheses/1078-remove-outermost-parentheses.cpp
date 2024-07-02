@@ -16,7 +16,7 @@ public:
             else{
                 balance--;
                 if (balance > 0) {
-                    result += s[i]; // Add the character to the result
+                    result += s[i]; 
                 }     
 
             }
