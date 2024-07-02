@@ -241,6 +241,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0008-string-to-integer-atoi) |
+| [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
 | ------- |
@@ -250,4 +251,8 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
