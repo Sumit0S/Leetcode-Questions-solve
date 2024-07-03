@@ -8,13 +8,13 @@ public:
             }
             return;
         }
-        combinations(candidates,target,index+1,ans,output);
         if(target>=candidates[index]){
-        int a=candidates[index];
-        output.push_back(a);
-        combinations(candidates,target-a,index,ans,output);
-         output.pop_back();
+            int a=candidates[index];
+            output.push_back(a);
+            combinations(candidates,target-a,index,ans,output);
+            output.pop_back();
         }
+        combinations(candidates,target,index+1,ans,output);
     }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
         vector<vector<int>> ans;
