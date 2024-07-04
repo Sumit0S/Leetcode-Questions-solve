@@ -8,10 +8,11 @@ void findCombination(int ind, int target, vector < int > & arr, vector < vector 
         }
         for (int i = ind; i < arr.size(); i++) {
             if (i > ind && arr[i] == arr[i - 1]) continue;
-            if (arr[i] > target) break;
-            ds.push_back(arr[i]);
-            findCombination(i + 1, target - arr[i], arr, ans, ds);
-            ds.pop_back();
+            if (arr[i] <= target){
+                ds.push_back(arr[i]);
+                findCombination(i + 1, target - arr[i], arr, ans, ds);
+                ds.pop_back();
+            }
         }
 }
 
