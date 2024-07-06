@@ -4,7 +4,9 @@ public:
         if (n == 0) {
             return 1;
         }
+        
         long long N=n;
+
         if (N < 0) {
             x = 1 / x;
             N = -N;
