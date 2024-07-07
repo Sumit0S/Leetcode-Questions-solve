@@ -241,6 +241,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0008-string-to-integer-atoi) |
+| [0022-generate-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0022-generate-parentheses) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -265,6 +266,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0040-combination-sum-ii) |
 | [0078-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0078-subsets) |
@@ -274,4 +276,8 @@
 | ------- |
 | [0078-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0090-subsets-ii) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
