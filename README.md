@@ -227,11 +227,13 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0138-copy-list-with-random-pointer) |
+| [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
 | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0050-powx-n) |
+| [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
 | [2050-count-good-numbers](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2050-count-good-numbers) |
 ## Hash Table
 |  |
@@ -252,9 +254,11 @@
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
 ## Array
 |  |
