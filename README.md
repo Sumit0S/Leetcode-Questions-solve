@@ -238,6 +238,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0138-copy-list-with-random-pointer) |
 ## String
 |  |
@@ -264,6 +265,7 @@
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0051-n-queens) |
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0051-n-queens) |
@@ -292,5 +295,6 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
