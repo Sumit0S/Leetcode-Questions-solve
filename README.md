@@ -244,6 +244,7 @@
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -267,6 +268,7 @@
 | [0040-combination-sum-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0090-subsets-ii) |
 ## Backtracking
 |  |
@@ -276,6 +278,7 @@
 | [0040-combination-sum-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0040-combination-sum-ii) |
 | [0051-n-queens](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0051-n-queens) |
 | [0078-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
@@ -286,4 +289,8 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0022-generate-parentheses) |
+## Matrix
+|  |
+| ------- |
+| [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
 <!---LeetCode Topics End-->
