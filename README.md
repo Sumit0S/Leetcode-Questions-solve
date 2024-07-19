@@ -247,6 +247,7 @@
 | [0008-string-to-integer-atoi](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0008-string-to-integer-atoi) |
 | [0022-generate-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0131-palindrome-partitioning) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
 ## Math
 |  |
@@ -285,6 +286,7 @@
 | [0078-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0090-subsets-ii) |
+| [0131-palindrome-partitioning](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0131-palindrome-partitioning) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -295,6 +297,7 @@
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0131-palindrome-partitioning) |
 ## Matrix
 |  |
 | ------- |
