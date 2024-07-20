@@ -245,6 +245,7 @@
 |  |
 | ------- |
 | [0008-string-to-integer-atoi](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0008-string-to-integer-atoi) |
+| [0020-valid-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0131-palindrome-partitioning) |
@@ -262,6 +263,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0020-valid-parentheses) |
 | [0225-implement-stack-using-queues](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
