@@ -279,6 +279,7 @@
 | [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0136-single-number) |
+| [0747-min-cost-climbing-stairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
 | ------- |
@@ -302,6 +303,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0022-generate-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0131-palindrome-partitioning) |
+| [0747-min-cost-climbing-stairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0747-min-cost-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
