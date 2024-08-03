@@ -269,6 +269,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0503-next-greater-element-ii) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
 ## Array
 |  |
@@ -282,6 +283,7 @@
 | [0090-subsets-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0136-single-number) |
 | [0496-next-greater-element-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0503-next-greater-element-ii) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0747-min-cost-climbing-stairs) |
 ## Backtracking
 |  |
@@ -325,4 +327,5 @@
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0503-next-greater-element-ii) |
 <!---LeetCode Topics End-->
