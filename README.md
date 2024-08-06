@@ -274,6 +274,7 @@
 | [0496-next-greater-element-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0735-asteroid-collision) |
+| [0943-sum-of-subarray-minimums](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
 ## Array
 |  |
@@ -292,6 +293,7 @@
 | [0503-next-greater-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0747-min-cost-climbing-stairs) |
+| [0943-sum-of-subarray-minimums](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0943-sum-of-subarray-minimums) |
 ## Backtracking
 |  |
 | ------- |
@@ -317,6 +319,7 @@
 | [0042-trapping-rain-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0042-trapping-rain-water) |
 | [0131-palindrome-partitioning](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0131-palindrome-partitioning) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0747-min-cost-climbing-stairs) |
+| [0943-sum-of-subarray-minimums](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0943-sum-of-subarray-minimums) |
 ## Matrix
 |  |
 | ------- |
@@ -338,6 +341,7 @@
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0503-next-greater-element-ii) |
+| [0943-sum-of-subarray-minimums](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0943-sum-of-subarray-minimums) |
 ## Simulation
 |  |
 | ------- |
