@@ -9,7 +9,7 @@ vector<int> presmaler(vector<int>& arr)
         vector<int> v(arr.size());
         for(int i=0; i<arr.size(); i++)
         {
-            while(!st.empty() and arr[i]<=arr[st.top()])
+            while(!st.empty() and arr[i]<arr[st.top()])
             {
                 st.pop();
             }
@@ -28,7 +28,7 @@ vector<int> nextsmaler(vector<int>& arr)
         vector<int> v(arr.size());
         for(int i=arr.size()-1; i>=0; i--)
         {
-            while(!st.empty() and arr[i]<arr[st.top()])
+            while(!st.empty() and arr[i]<=arr[st.top()])
             {
                 st.pop();
             }
