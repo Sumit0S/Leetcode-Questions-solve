@@ -227,6 +227,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0146-lru-cache) |
 | [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0237-delete-node-in-a-linked-list) |
 ## Recursion
@@ -241,6 +242,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0138-copy-list-with-random-pointer) |
+| [0146-lru-cache](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0146-lru-cache) |
 | [0496-next-greater-element-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0496-next-greater-element-i) |
 ## String
 |  |
@@ -330,6 +332,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0225-implement-stack-using-queues) |
 | [0937-online-stock-span](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0937-online-stock-span) |
@@ -367,4 +370,8 @@
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0937-online-stock-span) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
