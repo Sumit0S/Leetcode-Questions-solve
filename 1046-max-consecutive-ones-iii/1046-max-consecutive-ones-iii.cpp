@@ -11,16 +11,12 @@ public:
             {
                 zeros++;
             }
-            if(zeros>k){
-                while(zeros!=k and l<r){
-                    if(arr[l]==1){
-                        l++;
-                    }
-                    else{
-                        l++;
-                        zeros--;
-                    }
+            if(zeros>k and l<r){  
+                if(arr[l]==0){ 
+                    zeros--;
                 }
+                
+                l++;
             }
        
             if(zeros<=k) 
