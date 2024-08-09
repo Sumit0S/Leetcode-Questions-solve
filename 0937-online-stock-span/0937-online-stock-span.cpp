@@ -16,8 +16,8 @@ public:
 
         // Traverse backward through the list of prices
         while (index >= 0 && prices[index] <= price) {
-            span += 1;
-            index -= 1;
+            span += spans[index];
+            index -= spans[index];
            
         }
 
