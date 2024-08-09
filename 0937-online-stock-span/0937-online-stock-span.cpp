@@ -1,27 +1,34 @@
-class StockSpanner {
-public:
-    // Constructor
-    StockSpanner() {}
+#include <vector>
 
-    // Function to get the span of the current price
-    int next(int price) {
-        int span = 1;
-        
-        // While stack is not empty and the price at the top of the stack is <= current price
-        while (!stk.empty() && stk.top().first <= price) {
-            span += stk.top().second;
-            stk.pop();
-        }
-        
-        // Push the current price and its span onto the stack
-        stk.push({price, span});
-        
-        return span;
+class StockSpanner {
+private:
+    std::vector<int> prices;
+    std::vector<int> spans;
+
+public:
+    StockSpanner() {
+        // No initialization needed for the vectors
     }
 
-private:
-    std::stack<std::pair<int, int>> stk; // Stack to store pairs of (price, span)
+    int next(int price) {
+        int span = 1; // Start with a span of 1 for the current day
+        int index = prices.size() - 1;
+
+        // Traverse backward through the list of prices
+        while (index >= 0 && prices[index] <= price) {
+            span += 1;
+            index -= 1;
+           
+        }
+
+        // Store the current price and its calculated span
+        prices.push_back(price);
+        spans.push_back(span);
+
+        return span;
+    }
 };
+
 
 /**
  * Your StockSpanner object will be instantiated and called as such:
