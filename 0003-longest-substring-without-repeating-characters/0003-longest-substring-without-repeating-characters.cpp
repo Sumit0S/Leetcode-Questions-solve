@@ -3,22 +3,21 @@ public:
 
     int lengthOfLongestSubstring(string s) {
         
-        if(s.size()==0){
+        if(s.size()==0)
+        {
             return 0;
         }
+
         int maxans = INT_MIN;
-        unordered_set < int > set;
+
+        unordered_map<char, int> sett;
         int l=0;
         for(int r=0; r<s.length(); r++){
-            if(set.find(s[r])!=set.end()){
-                while(l<r and set.find(s[r])!=set.end()){
-                    set.erase(s[l]);
-                    l++;
-                }
-                
+            if(sett.find(s[r])!=sett.end()){
+                l = max(sett[s[r]] + 1, l); 
             }
-            maxans=max(maxans,r-l+1);
-            set.insert(s[r]);
+            sett[s[r]] = r;
+            maxans = max(maxans, r - l + 1);
         }
         return maxans;
     }
