@@ -248,6 +248,7 @@
 | [0496-next-greater-element-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0496-next-greater-element-i) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0966-binary-subarrays-with-sum) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## String
 |  |
 | ------- |
@@ -259,6 +260,7 @@
 | [0131-palindrome-partitioning](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0131-palindrome-partitioning) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0424-longest-repeating-character-replacement) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
 | ------- |
@@ -373,6 +375,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1370-count-number-of-nice-subarrays) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
