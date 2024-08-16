@@ -241,6 +241,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0138-copy-list-with-random-pointer) |
@@ -292,6 +293,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0040-combination-sum-ii) |
