@@ -354,6 +354,7 @@
 | [0155-min-stack](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0225-implement-stack-using-queues) |
 | [0355-design-twitter](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0355-design-twitter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0937-online-stock-span) |
 ## Queue
 |  |
@@ -390,6 +391,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0239-sliding-window-maximum) |
 | [0355-design-twitter](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0355-design-twitter) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -397,6 +399,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
 |  |
@@ -428,4 +431,16 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0023-merge-k-sorted-lists) |
+## Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
+## Binary Tree
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
