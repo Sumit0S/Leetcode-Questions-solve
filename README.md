@@ -277,6 +277,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
+| [0295-find-median-from-data-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0295-find-median-from-data-stream) |
 ## Stack
 |  |
 | ------- |
@@ -353,6 +354,7 @@
 | [0146-lru-cache](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0225-implement-stack-using-queues) |
+| [0295-find-median-from-data-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0937-online-stock-span) |
@@ -390,6 +392,7 @@
 | [0023-merge-k-sorted-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
@@ -399,6 +402,7 @@
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0937-online-stock-span) |
 ## Doubly-Linked List
@@ -423,6 +427,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0295-find-median-from-data-stream) |
 ## Quickselect
 |  |
 | ------- |
