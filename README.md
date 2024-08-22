@@ -247,6 +247,7 @@
 | [0037-sudoku-solver](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0037-sudoku-solver) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0146-lru-cache) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0355-design-twitter) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0496-next-greater-element-i) |
@@ -309,6 +310,7 @@
 | [0136-single-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0136-single-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0239-sliding-window-maximum) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0503-next-greater-element-ii) |
 | [0735-asteroid-collision](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0735-asteroid-collision) |
@@ -393,6 +395,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Monotonic Queue
@@ -423,15 +426,18 @@
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0295-find-median-from-data-stream) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
 ## Merge Sort
 |  |
 | ------- |
@@ -448,4 +454,12 @@
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
