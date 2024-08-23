@@ -5,16 +5,19 @@ public:
         int cnt=0;
         sort(g.begin(),g.end());
         sort(s.begin(),s.end());
-        for(int i=0; i<g.size(); i++)
-        {
-            for(int j=i; j<s.size(); j++){
-                if(s[j]>=g[i]){
-                    cnt++;
-                    s[j]=-1;
-                    break;
-                }
+        int l=0;
+        int r=0;
+
+        while(l<g.size() and r<s.size()){
+            if(s[r]>=g[l]){
+                l++;
+                r++;
+                cnt++;
             }
-        } 
+            else{
+                r++;
+            }
+        }
         return cnt;
     }
 };
