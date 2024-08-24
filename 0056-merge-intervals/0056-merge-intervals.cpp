@@ -1,33 +1,21 @@
 class Solution {
 public:
     vector<vector<int>> merge(vector<vector<int>>& intervals) {
-    int n = intervals.size(); // size of the array
 
-    //sort the given intervals:
-    sort(intervals.begin(), intervals.end());
+        sort(intervals.begin(), intervals.end()); 
 
-    vector<vector<int>> ans;
+        vector<vector<int>> merged; 
 
-    for (int i = 0; i < n; i++) { // select an interval:
-        int start = intervals[i][0];
-        int end = intervals[i][1];
-
-        //Skip all the merged intervals:
-        if (!ans.empty() && end <= ans.back()[1]) {
-            continue;
-        }
-
-        //check the rest of the intervals:
-        for (int j = i + 1; j < n; j++) {
-            if (intervals[j][0] <= end) {
-                end = max(end, intervals[j][1]);
-            }
-            else {
-                break;
+        for (const auto& interval : intervals) {
+            if (merged.empty() || merged.back()[1] < interval[0]) {
+                // No overlap, add the interval to the result
+                merged.push_back(interval);
+            } else {
+                // Overlap, merge with the last interval in the result
+                merged.back()[1] = max(merged.back()[1], interval[1]);
             }
         }
-        ans.push_back({start, end});
-    }
-    return ans;       
+
+        return merged;  
     }
 };
