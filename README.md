@@ -305,6 +305,7 @@
 | [0039-combination-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0055-jump-game) |
 | [0078-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0078-subsets) |
@@ -348,6 +349,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0042-trapping-rain-water) |
+| [0045-jump-game-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0131-palindrome-partitioning) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0678-valid-parenthesis-string) |
@@ -474,6 +476,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0678-valid-parenthesis-string) |
