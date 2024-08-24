@@ -308,6 +308,7 @@
 | [0045-jump-game-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0045-jump-game-ii) |
 | [0051-n-queens](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0051-n-queens) |
 | [0055-jump-game](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0057-insert-interval) |
 | [0078-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0084-largest-rectangle-in-histogram) |
