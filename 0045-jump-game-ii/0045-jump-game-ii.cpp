@@ -6,7 +6,7 @@ public:
         int jump=0;
 
         while(r<nums.size()-1){
-            int farthest=INT_MIN;
+            int farthest=r;
             for(int i=l; i<=r; i++){
                 farthest=max(farthest,i+nums[i]);
             }
