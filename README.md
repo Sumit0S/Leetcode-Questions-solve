@@ -276,6 +276,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0011-container-with-most-water) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0042-trapping-rain-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
@@ -301,6 +302,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0011-container-with-most-water) |
 | [0037-sudoku-solver](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0040-combination-sum-ii) |
@@ -483,6 +485,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0135-candy) |
