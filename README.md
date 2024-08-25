@@ -268,6 +268,7 @@
 | [0424-longest-repeating-character-replacement](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Math
 |  |
@@ -301,6 +302,7 @@
 | [0937-online-stock-span](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0943-sum-of-subarray-minimums) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Array
 |  |
 | ------- |
@@ -396,6 +398,7 @@
 | [0503-next-greater-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0937-online-stock-span) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0943-sum-of-subarray-minimums) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 ## Simulation
 |  |
 | ------- |
@@ -501,4 +504,5 @@
 | [0455-assign-cookies](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0678-valid-parenthesis-string) |
 | [0890-lemonade-change](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0890-lemonade-change) |
+| [1159-smallest-subsequence-of-distinct-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 <!---LeetCode Topics End-->
