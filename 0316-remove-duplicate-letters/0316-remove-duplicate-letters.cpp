@@ -1,10 +1,14 @@
 class Solution {
 public:
-    string removeDuplicateLetters(string s) {
+    string removeDuplicateLetters(string s) 
+    {
+
         vector<int> lastoccurence(26,-1);
         vector<bool> visited(26,false);
 
+
         stack<int> st;
+
 
         for(int i=0; i<s.size(); i++){
             lastoccurence[s[i]-'a']=i;
