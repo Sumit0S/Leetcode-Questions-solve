@@ -334,6 +334,7 @@
 | [0330-patching-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0334-increasing-triplet-subsequence) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
+| [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0455-assign-cookies) |
 | [0496-next-greater-element-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0496-next-greater-element-i) |
@@ -372,6 +373,7 @@
 | [0045-jump-game-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0055-jump-game) |
 | [0131-palindrome-partitioning](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0131-palindrome-partitioning) |
+| [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0678-valid-parenthesis-string) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0747-min-cost-climbing-stairs) |
@@ -449,10 +451,12 @@
 ## Binary Search
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1046-max-consecutive-ones-iii) |
 ## Divide and Conquer
@@ -518,6 +522,7 @@
 | [0334-increasing-triplet-subsequence](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0334-increasing-triplet-subsequence) |
 | [0402-remove-k-digits](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
 | [0435-non-overlapping-intervals](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0678-valid-parenthesis-string) |
