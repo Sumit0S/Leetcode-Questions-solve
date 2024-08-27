@@ -265,6 +265,7 @@
 | [0131-palindrome-partitioning](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0179-largest-number) |
 | [0316-remove-duplicate-letters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0402-remove-k-digits) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0424-longest-repeating-character-replacement) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
@@ -295,6 +296,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0503-next-greater-element-ii) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0678-valid-parenthesis-string) |
@@ -398,6 +400,7 @@
 | [0042-trapping-rain-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0084-largest-rectangle-in-histogram) |
 | [0316-remove-duplicate-letters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0316-remove-duplicate-letters) |
+| [0402-remove-k-digits](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0402-remove-k-digits) |
 | [0496-next-greater-element-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0503-next-greater-element-ii) |
 | [0937-online-stock-span](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0937-online-stock-span) |
@@ -511,6 +514,7 @@
 | [0324-wiggle-sort-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0330-patching-array) |
 | [0334-increasing-triplet-subsequence](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0334-increasing-triplet-subsequence) |
+| [0402-remove-k-digits](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0402-remove-k-digits) |
 | [0435-non-overlapping-intervals](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0678-valid-parenthesis-string) |
