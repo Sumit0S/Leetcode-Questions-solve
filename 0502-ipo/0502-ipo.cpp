@@ -28,13 +28,13 @@ public:
             }
 
             // If no project can be started, break early
-            if(maxProfitQueue.empty()) {
-                break;
+            if(!maxProfitQueue.empty()) {
+                w += maxProfitQueue.top();
+                maxProfitQueue.pop();
             }
 
             // Add the most profitable project
-            w += maxProfitQueue.top();
-            maxProfitQueue.pop();
+
         }
 
         return w;
