@@ -23,7 +23,6 @@ public:
         for( auto val : points){
             if(curr_val>=val[0]){
                 continue;
-                
             }
             else{
                curr_val=max(curr_val,val[1]);
