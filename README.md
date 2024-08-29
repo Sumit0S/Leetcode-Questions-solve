@@ -294,6 +294,7 @@
 | [0020-valid-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0084-largest-rectangle-in-histogram) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0155-min-stack](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
@@ -499,6 +500,7 @@
 ## Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
@@ -507,6 +509,7 @@
 ## Binary Tree
 |  |
 | ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Bucket Sort
 |  |
@@ -545,4 +548,8 @@
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0561-array-partition) |
+## Depth-First Search
+|  |
+| ------- |
+| [0144-binary-tree-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 <!---LeetCode Topics End-->
