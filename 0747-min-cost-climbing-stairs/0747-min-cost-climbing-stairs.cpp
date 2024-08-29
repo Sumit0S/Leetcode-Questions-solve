@@ -1,4 +1,5 @@
-class Solution {
+class Solution 
+{
 private:
     int check(int i, vector<int>cost,int n,  vector<int>&dp){
         if(i >= n) return 0;
