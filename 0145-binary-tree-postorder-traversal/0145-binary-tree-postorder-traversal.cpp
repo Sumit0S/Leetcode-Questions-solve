@@ -15,32 +15,27 @@ public:
         vector<int> ans;
         if (root == nullptr) return ans;
 
-        stack<TreeNode*> st;
-        
-        TreeNode* curr = root;
+        stack<TreeNode*> st1;
+        stack<int> st2;
 
-        while (curr != nullptr || !st.empty()) {
-            if(curr!=NULL)
-            {
-                st.push(curr);
-                curr=curr->left;
+        st1.push(root);
+
+        while(!st1.empty()){
+            TreeNode* curr = st1.top();
+            st1.pop();
+            st2.push(curr->val);
+
+            if(curr->left){
+                st1.push(curr->left);
             }
-            else{
-                TreeNode* temp=st.top()->right;
-                if(temp==NULL){
-                    temp=st.top();
-                    st.pop();
-                    ans.push_back(temp->val);
-                    while(!st.empty() and temp==st.top()->right){
-                        temp=st.top();
-                        st.pop();
-                        ans.push_back(temp->val);
-                    }
-                }
-                else{
-                    curr=temp;
-                }
+            if(curr->right){
+                st1.push(curr->right);
             }
+        }
+
+        while(!st2.empty()){
+            ans.push_back(st2.top());
+            st2.pop();
         }
         return ans;
     }
