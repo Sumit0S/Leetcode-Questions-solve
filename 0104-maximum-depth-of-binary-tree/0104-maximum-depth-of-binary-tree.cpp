@@ -14,7 +14,7 @@ public:
 
     int maxleft(TreeNode* root){
         if(root==NULL){
-            return 1;
+            return 0;
         }
         int left=maxleft(root->left);
         int right=maxleft(root->right);
@@ -23,7 +23,7 @@ public:
 
     int maxright(TreeNode* root){
         if(root==NULL){
-            return 1;
+            return 0;
         }
         int left=maxleft(root->left);
         int right=maxleft(root->right);
@@ -35,6 +35,6 @@ public:
         }
         int max_left=maxleft(root->left);
         int max_right=maxright(root->right);
-        return max(max_left,max_right);
+        return max(max_left,max_right)+1;
     }
 };
