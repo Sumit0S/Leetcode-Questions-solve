@@ -12,28 +12,33 @@
 class Solution {
 public:
 
-    int balanced(TreeNode* root)
+    pair<bool,int> balanced(TreeNode* root)
     {
         if(root==NULL){
-            return 0;
+            pair<bool,int> p = make_pair(true,0);
+            return p;
         }
-        int left=balanced(root->left);
-        int right=balanced(root->right);
-        if(left ==-1 or right==-1){
-            return -1;
-        }
-        if(abs(right-left)>1){
-            return -1;
-        }
-        return max(left,right)+1;
-    }
-    bool isBalanced(TreeNode* root) {
-        int ans=balanced(root);
-        if(ans!=-1){
-            return true;
+        pair<bool,int> left=balanced(root->left);
+        pair<bool,int> right=balanced(root->right);
+
+        bool leftans = left.first;
+        bool rightans = right.first;
+        bool dif=abs(left.second-right.second)<=1;
+
+        pair<bool,int> ans;
+        ans.second=max(left.second,right.second)+1;
+        if(leftans and rightans and dif)
+        {
+            ans.first=true;
         }
         else{
-            return false;
+            ans.first=false;
         }
+        return ans;
+    }
+
+    bool isBalanced(TreeNode* root) 
+    {
+        return balanced(root).first;
     }
 };
