@@ -21,13 +21,11 @@ public:
         pair<bool,int> left=balanced(root->left);
         pair<bool,int> right=balanced(root->right);
 
-        bool leftans = left.first;
-        bool rightans = right.first;
         bool dif=abs(left.second-right.second)<=1;
 
         pair<bool,int> ans;
         ans.second=max(left.second,right.second)+1;
-        if(leftans and rightans and dif)
+        if(left.first and right.first and dif)
         {
             ans.first=true;
         }
