@@ -12,14 +12,8 @@
 class Solution {
 public:
     bool ism(TreeNode* leftnode,TreeNode* rightnode){
-        if(leftnode==NULL and rightnode==NULL){
-            return true;
-        }
-        if(leftnode==NULL and rightnode!=NULL){
-            return false;
-        }
-        if(leftnode!=NULL and rightnode==NULL){
-            return false;
+        if(leftnode==NULL || rightnode==NULL){
+            return leftnode==rightnode;
         }
         if(leftnode->val!=rightnode->val){
             return false;
