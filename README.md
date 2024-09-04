@@ -267,6 +267,7 @@
 | [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0179-largest-number) |
+| [0257-binary-tree-paths](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0316-remove-duplicate-letters) |
 | [0402-remove-k-digits](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0402-remove-k-digits) |
 | [0409-longest-palindrome](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0409-longest-palindrome) |
@@ -369,6 +370,7 @@
 | [0090-subsets-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0113-path-sum-ii) |
 | [0131-palindrome-partitioning](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0131-palindrome-partitioning) |
+| [0257-binary-tree-paths](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0257-binary-tree-paths) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -518,6 +520,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -540,6 +543,7 @@
 | [0199-binary-tree-right-side-view](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0222-count-complete-tree-nodes) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0543-diameter-of-binary-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -593,6 +597,7 @@
 | [0145-binary-tree-postorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0257-binary-tree-paths) |
 | [0543-diameter-of-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0543-diameter-of-binary-tree) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
