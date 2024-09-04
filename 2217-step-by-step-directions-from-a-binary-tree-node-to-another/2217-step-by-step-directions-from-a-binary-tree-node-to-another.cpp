@@ -6,68 +6,59 @@
  *     TreeNode *right;
  *     TreeNode() : val(0), left(nullptr), right(nullptr) {}
  *     TreeNode(int x) : val(x), left(nullptr), right(nullptr) {}
- *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
+ *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left),
+ * right(right) {}
  * };
  */
+
 class Solution {
 public:
-
-    // Helper function to find the path from the root to the target node.
-    bool findPath(TreeNode* root, int target, string &path) {
-        if (root == NULL) {
-            return false;
-        }
-        if (root->val == target) {
-            return true;
-        }
-        
-        // Search in the left subtree
-        path += 'L';
-        if (findPath(root->left, target, path)) {
-            return true;
-        }
-        path.pop_back(); // If not found, backtrack
-        
-        // Search in the right subtree
-        path += 'R';
-        if (findPath(root->right, target, path)) {
-            return true;
-        }
-        path.pop_back(); // If not found, backtrack
-        
-        return false;
-    }
-    
-    string getDirections(TreeNode* root, int startValue, int destValue) 
+    static TreeNode* LCA(TreeNode* root, int x, int y) 
     {
-        if (root == NULL) {
-            return "";
-        }
-        
-        string pathToStart = "";
-        string pathToDest = "";
-        
-        // Find path from root to startValue and root to destValue
-        findPath(root, startValue, pathToStart);
-        findPath(root, destValue, pathToDest);
-        
-        // Find the first divergence point between the two paths
-        int i = 0;
-        while (i < pathToStart.length() && i < pathToDest.length() && pathToStart[i] == pathToDest[i]) {
-            i++;
-        }
-        
-        // Calculate the directions
-        string result = "";
-        
-        // Add 'U' for each step you move up from startValue to the common ancestor
-        for (int j = i; j < pathToStart.length(); j++) {
-            result += 'U';
-        }
-        
-        // Add the path from the common ancestor to destValue
-        result += pathToDest.substr(i);
-        
-        return result;
+        if (root == NULL || root->val == x || root->val == y)
+            return root;
+        TreeNode* l = LCA(root->left, x, y);
+        TreeNode* r = LCA(root->right, x, y);
+        if (l == NULL) return r;
+        if (r == NULL) return l;
+        return root;
+    }
+
+    static bool dfs(TreeNode* root, int x, string& path, bool rev = 0) {
+        if (root == NULL)
+            return 0;
+        if (root->val == x)
+            return 1;
+
+        path += (rev ? 'U' : 'L');
+        if (dfs(root->left, x, path, rev)) return 1;
+        path.pop_back();
+
+        path += (rev ? 'U' : 'R');
+        if (dfs(root->right, x, path, rev)) return 1;
+        path.pop_back();
+
+        return 0;
+    }
+
+    static string getDirections(TreeNode* root, int startValue, int destValue) {
+        root = LCA(root, startValue, destValue);
+        string pathFrom = "", pathTo = "";
+        dfs(root, startValue, pathFrom, 1);
+        dfs(root, destValue, pathTo);
+        //    cout<<pathFrom<<endl;
+        //    cout<<pathTo<<endl;
+        return pathFrom + pathTo;
     }
 };
+
+
+
+
+auto init = []() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+    cout.tie(nullptr);
+    return 'c';
+}();
+
