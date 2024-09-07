@@ -13,26 +13,18 @@ class Solution {
 public:
 
     TreeNode* find(TreeNode* root, int val){
-        if(root==NULL){
-            return NULL;
+         while(root != NULL && root->val != val)
+         {
+            // Check if the target value is
+            // less than the current node's value.
+            // If so, move to the left subtree
+            // (values smaller than the current node).
+            // Otherwise, move to the right subtree
+            // (values larger than the current node).
+            root = val < root->val ? root->left : root->right;
         }
-        if(root->val==val){
-            return root;
-        }
-        // if(root->val>val)
-        // {
-           TreeNode* left1= find(root->left,val);
-        // }
-        // else{
-           TreeNode* right1=find(root->right,val);
-        // }
-        if(left1==NULL){
-            return right1;
-        }
-        else if(right1==NULL){
-            return left1;
-        }
-
+        // Return the node containing the target value,
+        // if found; otherwise, return NULL.
         return root;
 
     }
