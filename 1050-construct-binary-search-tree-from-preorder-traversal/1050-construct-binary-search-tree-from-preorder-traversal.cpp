@@ -11,27 +11,20 @@
  */
 class Solution {
 public:
-    TreeNode* dfs(vector<int> &preorder, int start, int end) {
-        if(start > end) return nullptr;
-
-        TreeNode *root = new TreeNode(preorder[start]);
-
-        if(start == end) return root;
-
-        //find right node
-        //right node is first greater than current
-        auto itr = upper_bound(preorder.begin() + start, preorder.begin() + end + 1, root->val); //end + 1 means iter in [first, last) 
-        if(itr != preorder.end()) { //found right node
-            int r_idx = distance(preorder.begin(), itr);
-            root->left = dfs(preorder, start + 1, r_idx - 1);
-            root->right = dfs(preorder, r_idx, end);
-        } else { //does not exist right node
-            root->left = dfs(preorder, start + 1, end);
+    TreeNode* build(vector<int> &A, int &i, int bound)
+    {
+        if(i==A.size() || A[i]>bound){
+            return NULL;
         }
+        TreeNode* root=new TreeNode(A[i++]);
+        root->left=build(A,i,root->val);
+        root->right=build(A,i,bound);
         return root;
     }
 
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        return dfs(preorder, 0, preorder.size() - 1);    
+        int i=0;
+
+        return build(preorder, i, INT_MAX);    
     }
 };
