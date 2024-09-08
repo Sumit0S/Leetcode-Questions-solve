@@ -20,10 +20,10 @@ public:
             return helper(root);
         }
         TreeNode* dummy=root;
-           while(root!=NULL)
-           {
+
+        while(root!=NULL){
             if(root->val>key){
-                if(root->left !=NULL and root->left->val==key){
+                if(root->left!=NULL and root->left->val==key){
                     root->left=helper(root->left);
                     break;
                 }
@@ -32,7 +32,7 @@ public:
                 }
             }
             else{
-                if(root->right!=NULL && root->right->val==key){
+                if(root->right!=NULL and root->right->val==key){
                     root->right=helper(root->right);
                     break;
                 }
@@ -43,22 +43,24 @@ public:
         }
         return dummy;
     }
-    TreeNode* helper(TreeNode* root){
+    TreeNode* helper(TreeNode* root)
+    {
         if(root->left==NULL){
             return root->right;
         }
-        else if(root->right==NULL){
+        if(root->right==NULL){
             return root->left;
         }
-        TreeNode* rightchild=root->right;
-        TreeNode* lastRight=findlast(root->left);
-        lastRight->right=rightchild;
+        TreeNode* curr=root->right;
+        TreeNode* rightmost=rightone(root->left);
+        rightmost->right=curr;
         return root->left;
     }
-    TreeNode* findlast(TreeNode* root){
+
+    TreeNode* rightone(TreeNode* root){
         if(root->right==NULL){
             return root;
         }
-        return findlast(root->right);
+        return rightone(root->right);
     }
 };
