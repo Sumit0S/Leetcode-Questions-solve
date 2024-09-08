@@ -15,19 +15,11 @@ public:
         if(root==NULL){
             return NULL;
         }
-
-        if(root->val == p->val or root->val==q->val){
-            return root;
+        if(root->val<p->val and root->val<q->val ){
+            return findlca(root->right,p,q);
         }
-
-        TreeNode* left=findlca(root->left,p,q);
-        TreeNode* right=findlca(root->right,p,q);
-
-        if(left==NULL){
-            return right;
-        }
-        if(right==NULL){
-            return left;
+        if(root->val>p->val and root->val>q->val ){
+            return findlca(root->left,p,q);
         }
         return root;
 
