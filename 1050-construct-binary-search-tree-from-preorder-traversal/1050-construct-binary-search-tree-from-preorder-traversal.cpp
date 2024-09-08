@@ -11,36 +11,27 @@
  */
 class Solution {
 public:
-    // Function to insert a new value into the binary search tree
-    void insert(TreeNode* root, int val) {
-        // If the value is less than the current node's value, go to the left subtree
-        if(val < root->val) {
-            // If there is no left child, create a new node and attach it as the left child
-            if(root->left == NULL) root->left = new TreeNode(val);
-            // If a left child exists, recursively insert the value into the left subtree
-            else insert(root->left, val);
+    TreeNode* dfs(vector<int> &preorder, int start, int end) {
+        if(start > end) return nullptr;
+
+        TreeNode *root = new TreeNode(preorder[start]);
+
+        if(start == end) return root;
+
+        //find right node
+        //right node is first greater than current
+        auto itr = upper_bound(preorder.begin() + start, preorder.begin() + end + 1, root->val); //end + 1 means iter in [first, last) 
+        if(itr != preorder.end()) { //found right node
+            int r_idx = distance(preorder.begin(), itr);
+            root->left = dfs(preorder, start + 1, r_idx - 1);
+            root->right = dfs(preorder, r_idx, end);
+        } else { //does not exist right node
+            root->left = dfs(preorder, start + 1, end);
         }
-        // If the value is greater than or equal to the current node's value, go to the right subtree
-        else {
-            // If there is no right child, create a new node and attach it as the right child
-            if(root->right == NULL) root->right = new TreeNode(val);
-            // If a right child exists, recursively insert the value into the right subtree
-            else insert(root->right, val);
-        }
+        return root;
     }
 
-    // Function to build a BST from a given preorder traversal array
     TreeNode* bstFromPreorder(vector<int>& preorder) {
-        // Create the root node with the first element of the preorder array
-        TreeNode* root = new TreeNode(preorder[0]);
-        
-        // Iterate through the rest of the elements in the preorder array
-        for(int i = 1; i < preorder.size(); i++) {
-            // Insert each element into the BST
-            insert(root, preorder[i]);
-        }
-        
-        // Return the root of the constructed BST
-        return root;
+        return dfs(preorder, 0, preorder.size() - 1);    
     }
 };
