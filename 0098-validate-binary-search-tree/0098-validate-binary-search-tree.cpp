@@ -12,27 +12,23 @@
 class Solution {
 public:
     // Helper function to check the validity of the BST
-    bool check(TreeNode* root, long min, long max) {
-        // Base case: an empty tree is a valid BST
-        if (root == NULL) {
+    bool check(TreeNode* root,long min , long max) {
+        if(root==NULL){
             return true;
         }
-        // The current node's value must be within the valid range (min, max)
-        if (root->val <= min || root->val >= max) {
-            return false;
-        }
+        bool left = check(root->left,min,root->val);
+        bool right= check(root->right,root->val,max);
 
-        // Recursively check left and right subtrees
-        bool left = check(root->left, min, root->val);
-        bool right = check(root->right, root->val, max);
-
-        // The current subtree is valid if both left and right subtrees are valid
-        return left && right;
+        return left and right and min<root->val and root->val<max;
     }
 
     bool isValidBST(TreeNode* root) {
-        // Start the check with the entire range of valid long values
+        if(root==NULL){
+            return true;
+        }
+        if(root->left==NULL and root->right==NULL){
+            return true;
+        }
         return check(root, LONG_MIN, LONG_MAX);
     }
 };
-
