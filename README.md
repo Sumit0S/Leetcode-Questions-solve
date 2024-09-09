@@ -303,6 +303,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0225-implement-stack-using-queues) |
 | [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
 | [0316-remove-duplicate-letters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0316-remove-duplicate-letters) |
@@ -405,6 +406,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0155-min-stack) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0225-implement-stack-using-queues) |
 | [0295-find-median-from-data-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0295-find-median-from-data-stream) |
 | [0355-design-twitter](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0355-design-twitter) |
@@ -524,6 +526,7 @@
 | [0113-path-sum-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -542,6 +545,7 @@
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0098-validate-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0173-binary-search-tree-iterator) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0450-delete-node-in-a-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0783-search-in-a-binary-search-tree) |
@@ -560,6 +564,7 @@
 | [0113-path-sum-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0113-path-sum-ii) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0222-count-complete-tree-nodes) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -639,4 +644,8 @@
 | [0199-binary-tree-right-side-view](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0199-binary-tree-right-side-view) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
