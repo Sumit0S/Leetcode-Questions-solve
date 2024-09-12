@@ -1,13 +1,13 @@
 class Solution {
 public:
-    void rotate(vector<int>& nums, int k){
-        ios::sync_with_stdio(false);
-        cin.tie(nullptr);
-        cout.tie(nullptr);
-        vector<int>temp(nums.size());
-        for(int i=0;i<nums.size();i++){
-            temp[(i+k)%nums.size()]=nums[i];
-        }
-        nums=temp;
+    void rotate(vector<int>& nums, int k) 
+    {
+        int n = nums.size();
+        k = k % n; // To handle cases where k > n
+        if (k == 0) return; 
+        
+        reverse(nums.begin(),nums.end()-k);
+        reverse(nums.begin()+n-k,nums.end()); 
+        reverse(nums.begin(),nums.end());
     }
 };
