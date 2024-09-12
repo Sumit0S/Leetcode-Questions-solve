@@ -12,7 +12,7 @@ public:
                 continue;
             }
             else{
-                j++;
+                j+=1;
                 nums[j]=nums[i];
                 // j+=1;
             }
