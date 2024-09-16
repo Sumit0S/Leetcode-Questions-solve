@@ -1,14 +1,25 @@
 class Solution {
 public:
-    vector<int> twoSum(vector<int>& nums, int target) {
-        int n = nums.size();
-        for (int i = 0; i < n - 1; i++) {
-            for (int j = i + 1; j < n; j++) {
-                if (nums[i] + nums[j] == target) {
-                    return {i, j};
-                }
-            }
+vector<int> twoSum(vector<int>& nums, int target) {
+    vector<int> ans;
+    map<int, int> mpp;
+
+    for(int i = 0; i < nums.size(); i++){
+        int is_ans = target - nums[i];
+
+        // Check if the complement exists in the map
+        if(mpp.find(is_ans) != mpp.end()){
+            ans.push_back(mpp[is_ans]);  // Get the index of the complement
+            ans.push_back(i);            // Current index
+            break;
         }
-        return {}; // No solution found
+
+        // Insert the current number and its index into the map
+        mpp[nums[i]] = i;
     }
+
+    return ans;
+
+}
+
 };
