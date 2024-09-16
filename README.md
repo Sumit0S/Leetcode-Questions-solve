@@ -224,6 +224,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0023-merge-k-sorted-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0023-merge-k-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0025-reverse-nodes-in-k-group) |
@@ -236,6 +237,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0002-add-two-numbers) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
@@ -282,6 +284,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1370-count-number-of-nice-subarrays) |
