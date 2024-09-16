@@ -8,7 +8,8 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
-class Solution {
+class Solution 
+{
 public:
     ListNode* addTwo(ListNode* l1, ListNode* l2) {
         ListNode* node1=l1;
