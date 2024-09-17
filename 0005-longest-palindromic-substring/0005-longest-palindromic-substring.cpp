@@ -5,12 +5,19 @@ public:
             return s;
         }
 
-        auto expand_from_center = [&](int left, int right) {
-            while (left >= 0 && right < s.length() && s[left] == s[right]) {
+        auto expand_from_center = [&](int left, int right) 
+        {
+            while (left >= 0 && right < s.length() && s[left] == s[right])
+            {
                 left--;
                 right++;
             }
-            return s.substr(left + 1, right - left - 1);
+
+            // cout<<left<<" "<<right<<endl;
+
+            return s.substr(left+1, right - left-1);
+
+            
         };
 
         std::string max_str = s.substr(0, 1);
@@ -26,7 +33,8 @@ public:
                 max_str = even;
             }
         }
-
+    
         return max_str;
+    
     }
 };
