@@ -1,7 +1,8 @@
 class Solution {
 public:
     // Recursive function to check if strings match the given pattern
-    bool isMatchHelper(int i, int j, string& s, string& p) {
+    bool isMatchHelper(int i, int j, string& s, string& p) 
+    {
         // If both strings are exhausted, it's a match
         if (i < 0 && j < 0) return true;
 
