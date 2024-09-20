@@ -6,15 +6,15 @@ public:
         int ans = 0;
 
         while (l < r) {
-            // Calculate the area with the current l and r
-            int cal = min(arr[l], arr[r]) * (r - l);
-            // Update ans if the new area is larger
-            ans = max(ans, cal);
 
-            // Move the pointers
+
             if (arr[l] < arr[r]) {
+                int cal = min(arr[l], arr[r]) * (r - l);
+                ans = max(ans, cal);
                 l++;
             } else {
+                int cal = min(arr[l], arr[r]) * (r - l);
+                ans = max(ans, cal);
                 r--;
             }
         }
