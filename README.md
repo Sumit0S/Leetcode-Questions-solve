@@ -304,6 +304,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0042-trapping-rain-water) |
@@ -342,6 +343,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0037-sudoku-solver](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0039-combination-sum) |
@@ -518,6 +520,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0015-3sum) |
 | [0056-merge-intervals](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0056-merge-intervals) |
 | [0179-largest-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
