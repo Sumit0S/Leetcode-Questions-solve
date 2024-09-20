@@ -9,11 +9,11 @@ public:
 
 
             if (arr[l] < arr[r]) {
-                int cal = min(arr[l], arr[r]) * (r - l);
+                int cal = arr[l] * (r - l);
                 ans = max(ans, cal);
                 l++;
             } else {
-                int cal = min(arr[l], arr[r]) * (r - l);
+                int cal = arr[r] * (r - l);
                 ans = max(ans, cal);
                 r--;
             }
