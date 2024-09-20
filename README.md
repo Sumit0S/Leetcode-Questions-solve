@@ -275,6 +275,7 @@
 | [0014-longest-common-prefix](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0032-longest-valid-parentheses) |
 | [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0131-palindrome-partitioning) |
 | [0179-largest-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0179-largest-number) |
@@ -319,6 +320,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0042-trapping-rain-water) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0084-largest-rectangle-in-histogram) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0094-binary-tree-inorder-traversal) |
@@ -417,6 +419,7 @@
 | [0005-longest-palindromic-substring](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0055-jump-game) |
