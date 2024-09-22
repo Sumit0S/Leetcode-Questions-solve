@@ -2,60 +2,54 @@ class Solution {
 public:
     int orangesRotting(vector<vector<int>>& grid)
     {
-        int n = grid.size();
-        int m = grid[0].size();
+        int n=grid.size();
+        int m=grid[0].size();
+
+
 
         vector<vector<int>> vis(n, vector<int>(m, 0));
-        queue<pair<pair<int,int>,int>> q;
-        int freshcount = 0;
 
-        // Initialize the queue with rotten oranges and count fresh oranges
-        for(int i = 0; i < n; i++) {
-            for(int j = 0; j < m; j++) {
-                if(grid[i][j] == 2) {
-                    q.push({{i, j}, 0});  // Push rotten oranges to queue with time 0
-                    vis[i][j] = 2;        // Mark visited
-                } 
-                else if(grid[i][j] == 1) {
-                    freshcount++;          // Count fresh oranges
+        queue<pair<pair<int,int>,int>> q;
+        int freshcount=0;
+
+        for(int i=0; i<n; i++){
+            for(int j=0; j<m; j++){
+                if(grid[i][j]==2){
+                    q.push({{i,j},0});
+                    vis[i][j]=2;
+                }
+                else if(grid[i][j]==1){
+                    freshcount++;
                 }
             }
         }
-
-        // Early exit if there are no fresh oranges
-        if(freshcount == 0) return 0;
 
         int rowDir[] = {-1, 0, +1, 0};  
         int colDir[] = {0, 1, 0, -1};
-        int time = 0;
-
-        // BFS to rot fresh oranges
-        while(!q.empty()) {
-            int r = q.front().first.first;
-            int c = q.front().first.second;
-            int tm = q.front().second;
+        int time=0;
+        int cnt=0;
+        while(!q.empty()){
+            int r=q.front().first.first;
+            int c=q.front().first.second;
+            int tm=q.front().second;
             q.pop();
-            time = max(time, tm);
+            time=max(time,tm);
 
-            for(int i = 0; i < 4; i++) {
-                int nrow = r + rowDir[i];
-                int ncol = c + colDir[i];
-
-                // Check boundaries and if the orange is fresh and not yet visited
-                if(nrow >= 0 && nrow < n && ncol >= 0 && ncol < m && vis[nrow][ncol] == 0 && grid[nrow][ncol] == 1) {
-                    q.push({{nrow, ncol}, tm + 1});
-                    vis[nrow][ncol] = 2;  // Mark as visited
-                    freshcount--;  // Decrease the count of fresh oranges
-
-                    // If all fresh oranges have rotted, return the time
-                    if(freshcount == 0) {
-                        return tm + 1;
-                    }
+            for(int i=0; i<4; i++){
+                int nrow=r+rowDir[i];
+                int ncol=c+colDir[i];
+                if(nrow>=0 and nrow<n and ncol>=0 and ncol<m and vis[nrow][ncol]==0 and grid[nrow][ncol]==1)
+                {
+                    q.push({{nrow,ncol},tm+1});
+                    vis[nrow][ncol]=1;
+                    cnt++;
                 }
             }
         }
 
-        // If there are still fresh oranges, return -1
-        return -1;
+        if(cnt!=freshcount){
+            return -1;
+        }
+        return time;
     }
 };
