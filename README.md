@@ -389,6 +389,7 @@
 | [0890-lemonade-change](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0890-lemonade-change) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0966-binary-subarrays-with-sum) |
+| [1036-rotting-oranges](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1036-rotting-oranges) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1046-max-consecutive-ones-iii) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1370-count-number-of-nice-subarrays) |
@@ -437,6 +438,7 @@
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0037-sudoku-solver) |
 | [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
+| [1036-rotting-oranges](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1036-rotting-oranges) |
 ## Design
 |  |
 | ------- |
@@ -690,6 +692,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1036-rotting-oranges](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1036-rotting-oranges) |
 ## Iterator
 |  |
 | ------- |
