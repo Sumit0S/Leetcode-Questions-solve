@@ -26,9 +26,12 @@ public:
             color[i]=-1;
         }
 
-        for(int i=0; i<v; i++){
-            if(color[i]==-1){
-                if(dfs(i,0,color,graph)==false){
+        for(int i=0; i<v; i++)
+        {
+            if(color[i]==-1)
+            {
+                if(dfs(i,0,color,graph)==false)
+                {
                     return false;
                 }
             }
