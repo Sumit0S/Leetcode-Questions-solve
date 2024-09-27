@@ -1,43 +1,33 @@
 class Solution {
 public:
+    bool isBipartite(vector<vector<int>>& graph) {
+    int V = graph.size();
+    vector<int> color(V, -1);
 
-    bool bfs(int u,vector<int>&vis,vector<int>&color,vector<vector<int>>& A)
-    {
-        queue<int>q;
+    for (int i = 0; i < V; ++i) {
+        if (color[i] == -1) {
+            queue<int> q;
+            q.push(i);
+            color[i] = 0;
 
-        q.push(u);
-        
-        vis[u]=1,color[u]=0;
+            while (!q.empty()) {
+                int node = q.front();
+                q.pop();   
 
-        while(!q.empty())
-        
-        {
-        
-            int u=q.front();q.pop();
 
-            for(auto& v: A[u])
-                if(!vis[v])
-                    vis[v]=1,
-                    color[v]=!color[u],
-                    q.push(v);
-                else if(color[v]==color[u])
-                    return 0;
+                for (int neighbor : graph[node]) {
+                    if (color[neighbor] == -1) {
+                        color[neighbor] = 1 - color[node];
+                        q.push(neighbor);
+                    } else if (color[neighbor] == color[node]) {
+                        return false;   
+ // Graph is not bipartite
+                    }
+                }
+            }
         }
-        return 1;
     }
 
-public:
-    bool isBipartite(vector<vector<int>>& A) 
-    {
-
-        int n=A.size();
-
-        vector<int> vis(n,0) , color(n,-1);
-
-        queue<int>q;
-        for(int i=0;i<n;i++)
-            if(!vis[i])
-                if(!bfs(i,vis,color,A)) return 0;
-        return 1;
+    return true; // Graph is bipartite
     }
 };
