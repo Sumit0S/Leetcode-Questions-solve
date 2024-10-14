@@ -1,22 +1,27 @@
 class Solution {
 public:
-    long long maxKelements(vector<int>& nums, int k)
-    {
-        long long ans=0;
-        priority_queue<int> q;
-
-        for(int i=0; i<nums.size(); i++){
-            q.push(nums[i]);
+    static long long maxKelements(vector<int>& nums, int k) {
+        priority_queue<int> pq(nums.begin(), nums.end());
+        long long score=0;
+        for(int i=0; i<k; i++){
+            int x=pq.top();
+            score+=x;
+            if (x==1){// early stop
+                score+=(k-1-i);
+                break;
+            }
+            pq.pop();
+            pq.push((x+2)/3);
         }
-
-        while(k>0){
-            long long val=q.top();
-            q.pop();
-            cout<<val<<" ";
-            ans+=val;
-            q.push((val+2)/3);
-            k--;
-        }
-        return ans;
+        return score;
     }
 };
+
+
+auto init = []()
+{ 
+    ios::sync_with_stdio(0);
+    cin.tie(0);
+    cout.tie(0);
+    return 'c';
+}();
