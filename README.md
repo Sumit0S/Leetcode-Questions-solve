@@ -293,6 +293,7 @@
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
+| [3195-separate-black-and-white-balls](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3195-separate-black-and-white-balls) |
 ## Math
 |  |
 | ------- |
@@ -320,6 +321,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0295-find-median-from-data-stream) |
 | [0455-assign-cookies](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [3195-separate-black-and-white-balls](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
 |  |
 | ------- |
@@ -670,6 +672,7 @@
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1159-smallest-subsequence-of-distinct-characters) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [3195-separate-black-and-white-balls](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3195-separate-black-and-white-balls) |
 ## Counting Sort
 |  |
 | ------- |
