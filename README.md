@@ -402,6 +402,7 @@
 | [1073-number-of-enclaves](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1370-count-number-of-nice-subarrays) |
+| [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1813-maximum-erasure-value) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2616-maximal-score-after-applying-k-operations) |
@@ -455,6 +456,7 @@
 | [1036-rotting-oranges](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
 ## Design
 |  |
 | ------- |
@@ -510,6 +512,7 @@
 | [0355-design-twitter](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0355-design-twitter) |
 | [0502-ipo](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0502-ipo) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Monotonic Queue
 |  |
@@ -531,6 +534,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0222-count-complete-tree-nodes) |
 | [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1046-max-consecutive-ones-iii) |
+| [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -703,6 +707,7 @@
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 ## Breadth-First Search
 |  |
@@ -723,6 +728,7 @@
 | [1036-rotting-oranges](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
 ## Iterator
 |  |
 | ------- |
@@ -738,6 +744,7 @@
 | [0547-number-of-provinces](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0547-number-of-provinces) |
 | [0801-is-graph-bipartite](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0801-is-graph-bipartite) |
 | [1073-number-of-enclaves](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1073-number-of-enclaves) |
+| [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
 ## Graph
 |  |
 | ------- |
