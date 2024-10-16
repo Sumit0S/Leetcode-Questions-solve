@@ -12,10 +12,10 @@ public:
             adj[j].push_back({i,w});
         }
 
-        set<pair<long long, int>> st;  // Using long long for distances
+        set<pair<long long,int>> st;
         st.insert({0,0});
         vector<int> ways(n,0);
-        vector<long long> dist(n,1e18);  // Use long long to handle large distances
+        vector<long long> dist(n,1e18);
         ways[0]=1;
         dist[0]=0;
 
@@ -24,7 +24,7 @@ public:
             auto it = *(st.begin());
             long long dst=it.first;
             int node=it.second;
-            st.erase(it);  // Erase the specific iterator
+            st.erase(it);  
             for(auto it:adj[node]){
                 int nn=it.first;
                 int nd=it.second;
