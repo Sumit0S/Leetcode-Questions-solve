@@ -242,6 +242,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0050-powx-n) |
 | [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
+| [1197-parsing-a-boolean-expression](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1197-parsing-a-boolean-expression) |
 | [2050-count-good-numbers](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2050-count-good-numbers) |
 ## Hash Table
 |  |
@@ -292,6 +293,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0678-valid-parenthesis-string) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1197-parsing-a-boolean-expression](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1197-parsing-a-boolean-expression) |
 | [1304-longest-happy-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -351,6 +353,7 @@
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1159-smallest-subsequence-of-distinct-characters) |
+| [1197-parsing-a-boolean-expression](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1197-parsing-a-boolean-expression) |
 ## Array
 |  |
 | ------- |
