@@ -324,6 +324,7 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0042-trapping-rain-water) |
+| [0088-merge-sorted-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0088-merge-sorted-array) |
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0283-move-zeroes) |
@@ -378,6 +379,7 @@
 | [0078-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0084-largest-rectangle-in-histogram) |
+| [0088-merge-sorted-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0090-subsets-ii) |
 | [0130-surrounded-regions](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0130-surrounded-regions) |
 | [0135-candy](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0135-candy) |
@@ -577,6 +579,7 @@
 | [0015-3sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0016-3sum-closest) |
 | [0056-merge-intervals](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0056-merge-intervals) |
+| [0088-merge-sorted-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0295-find-median-from-data-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0295-find-median-from-data-stream) |
