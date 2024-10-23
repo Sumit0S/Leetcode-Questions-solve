@@ -30,6 +30,7 @@ public:
             temp->val = current_levl_sum - temp->val;
         
             int sib_sum = (temp->left?temp->left->val:0) + (temp->right?temp->right->val:0);
+            next_lvl_sum+=sib_sum;
             if(temp->left){
                 temp->left->val=sib_sum;
                 q.push(temp->left);
@@ -37,12 +38,12 @@ public:
             if(temp->right){
                 temp->right->val=sib_sum;
                 q.push(temp->right);
-                next_lvl_sum+=temp->right->val;
             }
             
         }
-        
+
         current_levl_sum=next_lvl_sum;
+        
        }       
        return root;
     }
