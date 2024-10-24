@@ -11,7 +11,8 @@
  */
 class Solution {
 public:
-    bool flipEquiv(TreeNode* root1, TreeNode* root2) {
+    bool flipEquiv(TreeNode* root1, TreeNode* root2) 
+    {
         return checker(root1, root2);
     }
 
