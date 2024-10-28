@@ -270,6 +270,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1813-maximum-erasure-value](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1813-maximum-erasure-value) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
 |  |
@@ -423,6 +424,7 @@
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2616-maximal-score-after-applying-k-operations) |
 ## Backtracking
 |  |
@@ -468,6 +470,7 @@
 | [0943-sum-of-subarray-minimums](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0943-sum-of-subarray-minimums) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2586-longest-square-streak-in-an-array) |
 ## Matrix
 |  |
 | ------- |
@@ -563,6 +566,7 @@
 | [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2586-longest-square-streak-in-an-array) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -598,6 +602,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2586-longest-square-streak-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2586-longest-square-streak-in-an-array) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 ## Quickselect
 |  |
