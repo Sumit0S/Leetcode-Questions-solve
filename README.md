@@ -255,6 +255,7 @@
 | [0127-word-ladder](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0146-lru-cache) |
+| [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
 | [0355-design-twitter](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0355-design-twitter) |
 | [0409-longest-palindrome](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0409-longest-palindrome) |
@@ -312,6 +313,7 @@
 | [0012-integer-to-roman](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0012-integer-to-roman) |
 | [0050-powx-n](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0670-maximum-swap) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1370-count-number-of-nice-subarrays) |
 | [2050-count-good-numbers](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2050-count-good-numbers) |
@@ -389,6 +391,7 @@
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0239-sliding-window-maximum) |
+| [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0283-move-zeroes) |
 | [0324-wiggle-sort-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0324-wiggle-sort-ii) |
 | [0330-patching-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0330-patching-array) |
@@ -451,6 +454,7 @@
 | [0090-subsets-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 ## Dynamic Programming
 |  |
@@ -564,6 +568,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1046-max-consecutive-ones-iii) |
 | [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
@@ -591,6 +596,7 @@
 | [0088-merge-sorted-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0295-find-median-from-data-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0295-find-median-from-data-stream) |
 | [0324-wiggle-sort-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
