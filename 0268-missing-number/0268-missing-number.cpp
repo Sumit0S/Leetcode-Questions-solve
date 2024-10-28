@@ -1,13 +1,13 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
-        std::sort(nums.begin(), nums.end());
-        for(int i=0; i<nums.size(); i++){
-            if(i!=nums[i]){
-                return i;
-                break;
-            }
+        int n=nums.size();
+        int sum,ar_sum=0;
+        for(int i=0; i<n; i++){
+            sum+=i;
+            ar_sum+=nums[i];
         }
-        return nums.size();
+        sum+=n;
+        return (sum-ar_sum);
     }
 };
