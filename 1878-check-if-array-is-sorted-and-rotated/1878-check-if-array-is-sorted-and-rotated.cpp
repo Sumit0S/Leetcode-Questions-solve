@@ -14,6 +14,6 @@ public:
             cnt++;
         }
         if (cnt > 1) return false;
-        return true; // The array is a rotated sorted array
+        return true;
     }
 };
