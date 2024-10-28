@@ -24,6 +24,7 @@ public:
                 return false;
             }
         }
+        
         if(nums[br]>nums[0] and cnt!=0){
             return false;
         }
