@@ -420,6 +420,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
 | [1813-maximum-erasure-value](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1813-maximum-erasure-value) |
+| [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
