@@ -1,38 +1,19 @@
 class Solution {
 public:
-    int majorityElement(vector<int>& nums) 
+    int majorityElement(vector<int>& nums)
     {
-        int el;
-        int cnt=0;
-        ios_base::sync_with_stdio(false);cin.tie(NULL);cout.tie(NULL);
-        for(int i=0; i<nums.size(); i++){
-            if(cnt==0){
-                el=nums[i];
-                cnt=1;
-            }
-            else if(el==nums[i]){
-                cnt++;
-            }
-            else{
-                cnt--;
-            }
-            // if(el!=nums[i] and cnt>0){
-            //     cnt--;
-            // }
+        int n=nums.size();
+        unordered_map<int,int> mp;
 
-        }
-     
-        int cnt1=0;
-        for(int i=0; i<nums.size(); i++){
-            if(nums[i]==el){
-                cnt1++;
-            }
-            
-        }
+        for(int i=0; i<n; i++){
+            mp[nums[i]]++;
+        } 
 
-        if(cnt1>(nums.size()/2)){
-            return el;
+        for(auto it:mp){
+            if(it.second>n/2){
+                return it.first;
+            }
         }
-        return -1;
+        return -1; 
     }
 };
