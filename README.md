@@ -436,6 +436,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Backtracking
 |  |
 | ------- |
@@ -483,6 +484,7 @@
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2090-number-of-ways-to-arrive-at-destination) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2586-longest-square-streak-in-an-array) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -496,6 +498,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
+| [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 ## Design
 |  |
 | ------- |
