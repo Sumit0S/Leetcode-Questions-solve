@@ -19,7 +19,7 @@ public:
 
             // Update the count of prefix sum
             // in the map.
-            mpp[preSum] += 1;
+            mpp[preSum]++;
         }
         return cnt;
     }
