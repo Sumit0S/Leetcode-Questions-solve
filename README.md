@@ -313,6 +313,7 @@
 | [0007-reverse-integer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0012-integer-to-roman) |
+| [0048-rotate-image](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0048-rotate-image) |
 | [0050-powx-n](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
@@ -381,6 +382,7 @@
 | [0040-combination-sum-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0040-combination-sum-ii) |
 | [0042-trapping-rain-water](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0055-jump-game) |
@@ -499,6 +501,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0037-sudoku-solver) |
+| [0048-rotate-image](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0130-surrounded-regions) |
