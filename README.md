@@ -252,6 +252,7 @@
 | [0012-integer-to-roman](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0012-integer-to-roman) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0037-sudoku-solver](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0073-set-matrix-zeroes) |
 | [0127-word-ladder](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0127-word-ladder) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0146-lru-cache) |
@@ -385,6 +386,7 @@
 | [0055-jump-game](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0055-jump-game) |
 | [0056-merge-intervals](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0057-insert-interval) |
+| [0073-set-matrix-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
@@ -497,6 +499,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0130-surrounded-regions) |
 | [0542-01-matrix](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0542-01-matrix) |
