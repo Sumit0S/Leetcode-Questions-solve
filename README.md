@@ -263,6 +263,7 @@
 | [0409-longest-palindrome](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0409-longest-palindrome) |
 | [0424-longest-repeating-character-replacement](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0424-longest-repeating-character-replacement) |
 | [0496-next-greater-element-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0496-next-greater-element-i) |
+| [0560-subarray-sum-equals-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
@@ -421,6 +422,7 @@
 | [0503-next-greater-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0503-next-greater-element-ii) |
 | [0517-super-washing-machines](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0517-super-washing-machines) |
 | [0542-01-matrix](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0542-01-matrix) |
+| [0560-subarray-sum-equals-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0560-subarray-sum-equals-k) |
 | [0561-array-partition](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0733-flood-fill](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0733-flood-fill) |
@@ -606,6 +608,7 @@
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1046-max-consecutive-ones-iii) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
