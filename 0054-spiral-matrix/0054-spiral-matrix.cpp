@@ -10,12 +10,14 @@ public:
         int top = 0, left = 0, bottom = n - 1, right = m - 1;
 
         while(top<=bottom and left<=right){
-            for (int i = left; i <= right; i++)
-            ans.push_back(mat[top][i]);
+            for(int i=left; i<=right; i++){
+                ans.push_back(mat[top][i]);
+            }
             top++;
-            
-            for (int i = top; i <= bottom; i++)
-            ans.push_back(mat[i][right]);
+
+            for(int i=top; i<=bottom; i++){
+                ans.push_back(mat[i][right]);
+            }
             right--;
 
             if (top <= bottom) {
@@ -25,12 +27,13 @@ public:
             bottom--;
             }
 
-            if (left <= right) {
-            for (int i = bottom; i >= top; i--)
-                ans.push_back(mat[i][left]);
-
-            left++;
+            if(left<=right){
+                for(int i=bottom; i>=top; i--){
+                    ans.push_back(mat[i][left]);
+                }
+                left++; 
             }
+
         }
 
         return ans;
