@@ -2,6 +2,7 @@ class Solution {
 public:
     bool isCircularSentence(string sentence) {
 
+        
         int n=sentence.size();
 
         for(int i=1; i<n; i++){
@@ -12,13 +13,13 @@ public:
             }
         }
 
-                if(sentence[0]==sentence[sentence.size()-1]){
-                        return true;
-                    }
-                else{
-                        return false;
-                }
-
+        if(sentence[0]==sentence[sentence.size()-1]){
+            return true;
+        }
+        else{
+             return false;
+        }
+        
         return true;
     }
 };
