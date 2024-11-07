@@ -275,6 +275,7 @@
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1813-maximum-erasure-value](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1813-maximum-erasure-value) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2677-cousins-in-binary-tree-ii) |
 ## String
@@ -452,6 +453,7 @@
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2554-minimum-total-distance-traveled](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2554-minimum-total-distance-traveled) |
@@ -485,6 +487,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3291-find-if-array-can-be-sorted) |
 ## Dynamic Programming
 |  |
@@ -760,6 +763,7 @@
 | [0169-majority-element](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
+| [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Greedy
 |  |
 | ------- |
