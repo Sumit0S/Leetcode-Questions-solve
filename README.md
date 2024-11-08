@@ -454,6 +454,7 @@
 | [1813-maximum-erasure-value](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1813-maximum-erasure-value) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [1940-maximum-xor-for-each-query](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
@@ -489,6 +490,7 @@
 | [0136-single-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
+| [1940-maximum-xor-for-each-query](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1940-maximum-xor-for-each-query) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3291-find-if-array-can-be-sorted) |
@@ -630,6 +632,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0560-subarray-sum-equals-k) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1046-max-consecutive-ones-iii) |
+| [1940-maximum-xor-for-each-query](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 ## Divide and Conquer
 |  |
