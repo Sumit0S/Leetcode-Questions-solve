@@ -310,6 +310,7 @@
 | [1304-longest-happy-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1304-longest-happy-string) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
+| [2032-largest-odd-number-in-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2032-largest-odd-number-in-string) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2580-circular-sentence](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -327,6 +328,7 @@
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0670-maximum-swap](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0670-maximum-swap) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1370-count-number-of-nice-subarrays) |
+| [2032-largest-odd-number-in-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2050-count-good-numbers) |
 ## Two Pointers
 |  |
@@ -803,6 +805,7 @@
 | [1304-longest-happy-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1304-longest-happy-string) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
+| [2032-largest-odd-number-in-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2032-largest-odd-number-in-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [3195-separate-black-and-white-balls](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3195-separate-black-and-white-balls) |
