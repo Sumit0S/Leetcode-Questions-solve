@@ -20,14 +20,12 @@ public:
                 
             }
         }
+
         reverse(sa.begin(),sa.end());
+  
         ans+=sa;
         if(ans[ans.size()-1]==' '){
-            string temp="";
-            for(int i=0; i<ans.size()-1; i++){
-                temp+=ans[i];
-            }
-            return temp;
+            ans.resize(ans.size()-1);
         }
         return ans;
     }
