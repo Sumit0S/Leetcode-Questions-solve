@@ -3,6 +3,9 @@ public:
     string reverseWords(string s) {
         string sa="";
         string ans="";
+        if(s.empty()){
+            return s;
+        }
         for(int i=s.size()-1; i>=0; i--){
             if(s[i]==' ' and sa.size()>0){
                 reverse(sa.begin(),sa.end());
