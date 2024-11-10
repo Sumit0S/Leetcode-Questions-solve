@@ -12,9 +12,7 @@ public:
             }
             else if(s[i]==')'){
                 cnt--;
-                if(cnt<0){
-                    return -1;
-                }
+
             }
         }
         return ans;
