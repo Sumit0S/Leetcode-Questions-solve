@@ -333,6 +333,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2050-count-good-numbers) |
+| [2716-prime-subtraction-operation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -471,6 +472,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2716-prime-subtraction-operation) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
@@ -637,6 +639,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2586-longest-square-streak-in-an-array) |
+| [2716-prime-subtraction-operation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2716-prime-subtraction-operation) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -817,6 +820,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2032-largest-odd-number-in-string) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2716-prime-subtraction-operation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2716-prime-subtraction-operation) |
 | [3195-separate-black-and-white-balls](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3195-separate-black-and-white-balls) |
 ## Counting Sort
 |  |
@@ -921,4 +925,8 @@
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0812-rotate-string) |
+## Number Theory
+|  |
+| ------- |
+| [2716-prime-subtraction-operation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2716-prime-subtraction-operation) |
 <!---LeetCode Topics End-->
