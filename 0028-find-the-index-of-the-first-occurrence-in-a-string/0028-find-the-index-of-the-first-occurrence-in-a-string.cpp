@@ -5,17 +5,14 @@ public:
             return 0;
         }
         
-        for (int i = 0; i < haystack.length(); i++) {
-            // Iterate over all possible ending indices (ensuring substrings don't go out of bounds)
-            for (int j = i + 1; j <= haystack.length(); j++) {
+            for (int j = 0; j <= haystack.length(); j++) {
                 // Extract the substring from index i to j (exclusive)
-                string s = haystack.substr(i, j - i);
+                string s = haystack.substr(j,needle.length());
                 cout<<s<<" ";
                 if(s==needle){
-                    return i;
+                    return j;
                 }
             }
-        }
         return -1;
     }
 };
