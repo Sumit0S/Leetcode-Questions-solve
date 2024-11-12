@@ -483,6 +483,7 @@
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Backtracking
 |  |
 | ------- |
