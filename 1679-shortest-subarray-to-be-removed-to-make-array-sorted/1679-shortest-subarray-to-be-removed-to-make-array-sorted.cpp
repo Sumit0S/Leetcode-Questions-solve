@@ -28,7 +28,7 @@ public:
         
         // Try to merge prefix and suffix
         int i = 0, j = right;
-        while (i <= left && j < n) {
+        while (i <= left && j < n && left<right) {
             if (arr[i] <= arr[j]) {
                 result = min(result, j - i - 1);
                 i++;
