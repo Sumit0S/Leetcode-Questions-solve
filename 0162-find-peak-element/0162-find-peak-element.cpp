@@ -1,21 +1,22 @@
 class Solution {
 public:
     int findPeakElement(vector<int>& nums) {
-    int n = nums.size(); //Size of array.
+        int low = 0;
+        int high = nums.size() - 1;
 
-    // Edge cases:
-    if (n == 1) return 0;
+        while (low < high) {
+            int mid = low + (high - low) / 2;
 
-    int low = 0, high = n - 1;
-    while (low < high) {
-        int mid = low + (high-low) / 2;
-
-        // If we are in the left:
-        if (nums[mid] < nums[mid + 1]) low = mid + 1;
-
-        else high = mid;
-    }
-    // Dummy return statement
-    return low;        
+            // Compare middle element with its right neighbor
+            if (nums[mid] > nums[mid + 1]) {
+                // Peak is in the left half (including mid)
+                high = mid;
+            } else {
+                // Peak is in the right half (excluding mid)
+                low = mid + 1;
+            }
+        }
+        // 'low' and 'high' converge to the peak element
+        return high;
     }
 };
