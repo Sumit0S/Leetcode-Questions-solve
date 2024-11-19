@@ -459,6 +459,7 @@
 | [0733-flood-fill](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0733-flood-fill) |
 | [0735-asteroid-collision](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0747-min-cost-climbing-stairs) |
+| [0792-binary-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0943-sum-of-subarray-minimums) |
@@ -664,6 +665,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
+| [0792-binary-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [1046-max-consecutive-ones-iii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1046-max-consecutive-ones-iii) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
