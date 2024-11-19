@@ -1,25 +1,27 @@
 class Solution {
 public:
-    int findMin(vector<int>& nums){
+    int findMin(vector<int>& arr) {
         int low=0;
-        int high=nums.size()-1;
-        int mini=INT_MAX;
+        int high=arr.size()-1;
+        int ans=INT_MAX;
         while(low<=high){
-            int mid=low+((high-low)/2);
+            int mid=low+(high-low)/2;
 
-
-            // hence left part is sorted
-            if(nums[low]<=nums[mid]){
-                mini=min(mini,nums[low]);
-                low=mid+1;
+            if (arr[low] <= arr[high]) {
+                ans = min(ans, arr[low]);
+                break;
             }
-            // hence righ parst is sorted
+            if(arr[low]<=arr[mid]){
+                ans = min(ans, arr[low]);
+ 
+                    low=mid+1;
+            }
             else{
-                mini=min(mini,nums[mid]);
+                ans = min(ans, arr[mid]);
                 high=mid-1;
-                
+            
             }
-        }
-        return mini;
+        }   
+        return ans;
     }
 };
