@@ -34,7 +34,7 @@ public:
 
     int minDays(vector<int>& bloomDay, int m, int k) 
     {
-        long long int v=k*1LL*m*1LL;
+        long long int v=k*1LL*m;
          if(bloomDay.size()<v){
             return -1;
          }
