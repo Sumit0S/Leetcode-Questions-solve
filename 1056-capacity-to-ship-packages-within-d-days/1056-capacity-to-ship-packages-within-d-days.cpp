@@ -16,7 +16,7 @@ public:
         return n_sum;
     }
     bool is_(vector<int>& weights, int days,int w){
-        int no_days=0;
+        int no_days=1;
         int sumi=0;
         for(int i=0; i<weights.size(); i++){
             sumi+=weights[i];
@@ -26,7 +26,7 @@ public:
             }
         }
 
-        return days>=no_days+1;
+        return days>=no_days;
     }
     int shipWithinDays(vector<int>& weights, int days) 
     {
