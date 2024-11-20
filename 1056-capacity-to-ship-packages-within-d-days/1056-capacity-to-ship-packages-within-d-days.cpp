@@ -1,38 +1,42 @@
 class Solution {
 public:
 
-    int calculatedays(vector<int> weights,int cap)
-    {
-        int days = 1; //First day.
-        int load = 0;
-        int n = weights.size(); //size of array.
-        for(int i=0; i<n; i++){
-            if(load+weights[i]>cap){
-                days+=1;
-                load=weights[i];
-            }
-            else{
-                load+=weights[i];
-            }
+    int findmax(vector<int>& weights){
+        int maxi=INT_MIN;
+        for(auto it:weights){
+            maxi=max(maxi,it);
         }
-        return days;
+        return maxi;
     }
-    int shipWithinDays(vector<int>& weights, int days) {
-        int min_weight=0;
-        int max_weight=0;
-        for(int i=0; i<weights.size(); i++)
-        {
-            min_weight=max(min_weight,weights[i]);
-            max_weight+=weights[i];
+    int findsum(vector<int>& weights){
+        int n_sum=0;
+        for(auto it:weights){
+            n_sum+=it;
+        }
+        return n_sum;
+    }
+    bool is_(vector<int>& weights, int days,int w){
+        int no_days=0;
+        int sumi=0;
+        for(int i=0; i<weights.size(); i++){
+            sumi+=weights[i];
+            if(sumi>w){
+                sumi=weights[i];
+                no_days+=1;
+            }
         }
 
-        int low=min_weight;
-        int high=max_weight;
+        return days>=no_days+1;
+    }
+    int shipWithinDays(vector<int>& weights, int days) 
+    {
+        int low=findmax(weights);
+        int high=findsum(weights);
 
         while(low<=high){
             int mid=low+(high-low)/2;
 
-            if(calculatedays(weights,mid)<=days){
+            if(is_(weights,days,mid)){
                 high=mid-1;
             }
             else{
