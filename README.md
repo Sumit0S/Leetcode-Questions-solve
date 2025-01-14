@@ -257,6 +257,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
@@ -300,6 +301,7 @@
 | [0131-palindrome-partitioning](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0257-binary-tree-paths) |
 | [0316-remove-duplicate-letters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0316-remove-duplicate-letters) |
