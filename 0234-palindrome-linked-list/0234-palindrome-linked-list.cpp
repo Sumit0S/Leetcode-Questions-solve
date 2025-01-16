@@ -10,37 +10,37 @@
  */
 class Solution {
 public:
-   bool isPalindrome(ListNode* head) {
-        // Edge cases: empty list or a single node list
-        if (head == NULL || head->next == NULL) {
-            return true;
-        }
-        
-        // Find the middle of the linked list using a slow and a fast pointer
-        ListNode* slow = head;
-        ListNode* fast = head;
-        stack<int> s;
 
-        // Push the first half elements into stack
-        while (fast != NULL && fast->next != NULL) {
-            s.push(slow->val);
-            slow = slow->next;
-            fast = fast->next->next;
+    ListNode* reverse(ListNode* head){
+        if(head==NULL or head->next==NULL){
+            return head;
         }
+        ListNode* frontnode=reverse(head->next);
+        ListNode* front=head->next;
+        front->next=head;
+        head->next=NULL;
+        return frontnode;
+    }
+    bool isPalindrome(ListNode* head) {
+        ListNode* slow=head;
+        ListNode* fast=head;
 
-        // If the list has an odd number of elements, skip the middle element
-        if (fast != NULL) {
-            slow = slow->next;
+        while(fast!=NULL and fast->next!=NULL){
+            slow=slow->next;
+            fast=fast->next->next;
         }
 
-        // Compare the second half of the list with the elements in the stack
-        while (slow != NULL) {
-            int top = s.top();
-            s.pop();
-            if (top != slow->val) {
+        ListNode* secondrev=reverse(slow);
+
+        ListNode* first=head;
+        ListNode* second=secondrev;
+
+        while(second!=NULL){
+            if(first->val!=second->val){
                 return false;
             }
-            slow = slow->next;
+            first=first->next;
+            second=second->next;
         }
 
         return true;
