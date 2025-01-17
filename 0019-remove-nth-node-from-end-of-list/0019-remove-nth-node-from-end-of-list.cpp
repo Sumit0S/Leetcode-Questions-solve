@@ -30,7 +30,7 @@ public:
             cnt--;
         }
         prev->next=node->next;
-        
+        delete(node);
         return head;
     }
 };
