@@ -1,4 +1,4 @@
-/** 
+/**
  * Definition for singly-linked list.
  * struct ListNode {
  *     int val;
@@ -10,26 +10,32 @@
  */
 class Solution {
 public:
-    ListNode* oddEvenList(ListNode* head) {
-        if (head == nullptr || head->next == nullptr)
-            return head; // If the list is empty or has only one node, return as is
 
-        ListNode* odd = head; // Initialize odd pointer to the head of the list
-        ListNode* even = head->next; // Initialize even pointer to the second node
-        ListNode* temp = even; // Store the start of the even list
-
-        while (even != nullptr && even->next != nullptr ) {
-            // Update odd and even pointers to skip one node each
-            odd->next = odd->next->next;
-            even->next = even->next->next;
-
-            odd = odd->next;
-            even = even->next;
+    ListNode* connect(ListNode* head){
+        ListNode* node=head;
+        while(node and node->next){
+            ListNode* front=node->next;
+            node->next=front->next;
+            node=node->next;
         }
+        return head;
+    }
+    ListNode* oddEvenList(ListNode* head) {
+        if (!head || !head->next) return head;
+        
+         ListNode* first=head;
+         ListNode* second=head->next;
+         ListNode* con=head->next;
 
-        // Connect the end of the odd list to the start of the even list
-        odd->next = temp;
+         while(second!=NULL and second->next!=NULL){
+            ListNode* front=second;
+            first->next=second->next;
+            first=first->next;
+            second->next=first->next;
+            second=second->next;
+         }
 
-        return head; // Return the modified list
+         first->next=con;
+         return head;
     }
 };
