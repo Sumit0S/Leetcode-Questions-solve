@@ -274,6 +274,7 @@
 | [0966-binary-subarrays-with-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1364-tuple-with-same-product](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
@@ -479,6 +480,7 @@
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1073-number-of-enclaves](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1364-tuple-with-same-product](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1370-count-number-of-nice-subarrays) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
@@ -846,6 +848,7 @@
 | [0169-majority-element](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
+| [1364-tuple-with-same-product](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1364-tuple-with-same-product) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 ## Greedy
