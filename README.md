@@ -281,6 +281,7 @@
 | [1813-maximum-erasure-value](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1813-maximum-erasure-value) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2448-count-number-of-bad-pairs) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2586-longest-square-streak-in-an-array) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2677-cousins-in-binary-tree-ii) |
@@ -343,6 +344,7 @@
 | [1370-count-number-of-nice-subarrays](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1370-count-number-of-nice-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2050-count-good-numbers) |
+| [2448-count-number-of-bad-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2448-count-number-of-bad-pairs) |
 | [2716-prime-subtraction-operation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
@@ -497,6 +499,7 @@
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2448-count-number-of-bad-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
@@ -851,6 +854,7 @@
 | [1364-tuple-with-same-product](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1364-tuple-with-same-product) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
+| [2448-count-number-of-bad-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2448-count-number-of-bad-pairs) |
 ## Greedy
 |  |
 | ------- |
