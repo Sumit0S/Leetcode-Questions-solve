@@ -325,6 +325,7 @@
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2032-largest-odd-number-in-string) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2580-circular-sentence](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2580-circular-sentence) |
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
@@ -370,6 +371,7 @@
 | [0647-palindromic-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -402,6 +404,7 @@
 | [1197-parsing-a-boolean-expression](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1197-parsing-a-boolean-expression) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Array
 |  |
 | ------- |
@@ -885,6 +888,7 @@
 | [1766-minimum-number-of-removals-to-make-mountain-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1766-minimum-number-of-removals-to-make-mountain-array) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2032-largest-odd-number-in-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2032-largest-odd-number-in-string) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2716-prime-subtraction-operation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2716-prime-subtraction-operation) |
