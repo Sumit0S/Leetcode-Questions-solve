@@ -1,41 +1,26 @@
 class Solution {
 public:
-    int tupleSameProduct(vector<int>& nums) {
-        int numsLength = nums.size();
-        sort(nums.begin(), nums.end());
-
-        int totalNumberOfTuples = 0;
-
-        // Iterate over all possible values for 'a'
-        for (int aIndex = 0; aIndex < numsLength; aIndex++) {
-            // Iterate over all possible values for 'b', starting from the end
-            // of the array
-            for (int bIndex = numsLength - 1; bIndex >= aIndex + 1; bIndex--) {
-                int product = nums[aIndex] * nums[bIndex];
-
-                // Use a hash set to store possible values of 'd'
-                unordered_set<int> possibleDValues;
-
-                // Iterate over all possible values for 'c' between 'a' and 'b'
-                for (int cIndex = aIndex + 1; cIndex < bIndex; cIndex++) {
-                    // Check if the product is divisible by nums[cIndex]
-                    if (product % nums[cIndex] == 0) {
-                        int dValue = product / nums[cIndex];
-
-                        // If 'dValue' is in the set, increment the tuple count
-                        // by 8
-                        if (possibleDValues.find(dValue) !=
-                            possibleDValues.end()) {
-                            totalNumberOfTuples += 8;
-                        }
-
-                        // Add nums[cIndex] to the set for future checks
-                        possibleDValues.insert(nums[cIndex]);
-                    }
-                }
+int v=0;
+    void calcul(int ind,vector<int>& nums,map<int,int>& ans){
+        if(ind==nums.size()){
+            return;
+        }
+        for(int i=ind; i<nums.size(); i++){
+            int val=nums[ind]*nums[i];
+            if(i!=ind){v+=ans[val]++;}
+        }
+        calcul(ind+1,nums,ans);
+    }
+    int tupleSameProduct(vector<int>& nums) 
+    {
+        map<int,int> ans;
+        calcul(0,nums,ans);
+        int ans6=0;
+        for(auto it:ans){
+            if(it.second>1){
+                ans6+=it.second;
             }
         }
-
-        return totalNumberOfTuples;
+        return v*8;
     }
 };
