@@ -10,16 +10,19 @@ public:
             mp[nums[r]]++;
             while (mp.size() > k) {
                 mp[nums[l]]--;
-             if (mp[nums[l]] == 0) {
+                if (mp[nums[l]] == 0) 
+                {
                     mp.erase(nums[l]); // Remove character if count becomes zero
-            }
+                }
+                
                 l++;
             }
             count += (r - l + 1);
     }
         return count;
     }
-    int numberOfSubstrings(string s) {
+    int numberOfSubstrings(string s)
+    {
         return atMost(s,3)-atMost(s,2);
     }
 };
