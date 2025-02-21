@@ -272,6 +272,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0926-find-and-replace-pattern](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0926-find-and-replace-pattern) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
@@ -318,6 +319,7 @@
 | [0647-palindromic-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0678-valid-parenthesis-string) |
 | [0812-rotate-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0812-rotate-string) |
+| [0926-find-and-replace-pattern](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1078-remove-outermost-parentheses](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1078-remove-outermost-parentheses) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1159-smallest-subsequence-of-distinct-characters) |
@@ -484,6 +486,7 @@
 | [0792-binary-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0926-find-and-replace-pattern](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0926-find-and-replace-pattern) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0966-binary-subarrays-with-sum) |
 | [1036-rotting-oranges](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1036-rotting-oranges) |
