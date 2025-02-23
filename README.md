@@ -272,6 +272,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0926-find-and-replace-pattern) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0966-binary-subarrays-with-sum) |
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0984-most-stones-removed-with-same-row-or-column) |
@@ -487,6 +488,7 @@
 | [0792-binary-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0792-binary-search) |
 | [0890-lemonade-change](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0926-find-and-replace-pattern) |
 | [0943-sum-of-subarray-minimums](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0943-sum-of-subarray-minimums) |
 | [0966-binary-subarrays-with-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0966-binary-subarrays-with-sum) |
@@ -735,6 +737,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Sorting
 |  |
 | ------- |
@@ -804,6 +807,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -850,6 +854,7 @@
 | [0784-insert-into-a-binary-search-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
+| [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0988-flip-equivalent-binary-trees](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0988-flip-equivalent-binary-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
