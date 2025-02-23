@@ -14,6 +14,9 @@ public:
                     // cout<<grid[i][j]<<" ";
                     q.push(grid[i][j]);
                 }
+                if(limit<=0){
+                    break;
+                }
                 limit--;
             }
         }
