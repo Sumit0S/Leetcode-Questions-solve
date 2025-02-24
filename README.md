@@ -521,6 +521,7 @@
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2554-minimum-total-distance-traveled) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2616-maximal-score-after-applying-k-operations) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2699-count-the-number-of-fair-pairs) |
@@ -817,6 +818,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Binary Search Tree
@@ -952,6 +954,7 @@
 | [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Breadth-First Search
 |  |
@@ -976,6 +979,7 @@
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [2677-cousins-in-binary-tree-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2677-cousins-in-binary-tree-ii) |
 ## Iterator
@@ -1004,6 +1008,7 @@
 | [0984-most-stones-removed-with-same-row-or-column](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0984-most-stones-removed-with-same-row-or-column) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Topological Sort
 |  |
 | ------- |
