@@ -279,6 +279,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1364-tuple-with-same-product](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1364-tuple-with-same-product) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1370-count-number-of-nice-subarrays) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1715-split-a-string-into-the-max-number-of-unique-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1715-split-a-string-into-the-max-number-of-unique-substrings) |
 | [1813-maximum-erasure-value](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1813-maximum-erasure-value) |
@@ -619,6 +620,7 @@
 | [0355-design-twitter](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0355-design-twitter) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0937-online-stock-span](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0937-online-stock-span) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 ## Queue
 |  |
 | ------- |
@@ -816,6 +818,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -864,6 +867,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
@@ -950,6 +954,7 @@
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1093-recover-a-tree-from-preorder-traversal) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
 | [2217-step-by-step-directions-from-a-binary-tree-node-to-another](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2217-step-by-step-directions-from-a-binary-tree-node-to-another) |
@@ -976,6 +981,7 @@
 | [1036-rotting-oranges](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1036-rotting-oranges) |
 | [1073-number-of-enclaves](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1073-number-of-enclaves) |
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1171-shortest-path-in-binary-matrix) |
+| [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1442-number-of-operations-to-make-network-connected](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1442-number-of-operations-to-make-network-connected) |
 | [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
