@@ -13,19 +13,22 @@ class FindElements {
 public:
 
     void dfs(TreeNode* root,int x){
-        if(root==NULL){
-            return;
-        }
+        // if(root==NULL){
+        //     return;
+        // }
         root->val=x;
         s.insert(x);
-        dfs(root->left,(2*x)+1);
-        dfs(root->right,(2*x)+2);
+        if(root->left){
+            dfs(root->left,(2*x)+1);
+        }
+        if(root->right){
+            dfs(root->right,(2*x)+2);
+        }
         return;
       }
     unordered_set<int> s;
     FindElements(TreeNode* root)
     {
-        // s.clear();
         dfs(root,0);
     }
     
