@@ -12,11 +12,11 @@ public:
             mp[it]++;
         }
 
-      
+     
         for (auto it = mp.begin(); it != mp.end(); ){
             int val=it->first;
             for(int i=0; i<groupSize; i++){
-                if (mp[val + i] == 0) {
+                if (mp.find(val+i)==mp.end()) {
                     return false;
                 }
                 mp[val+i]--;
