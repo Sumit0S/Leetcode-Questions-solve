@@ -4,7 +4,7 @@ public:
     {
       if (hand.size() % groupSize != 0)
       {
-            return false; // If total cards are not a multiple of groupSize, return false
+            return false;
       }
         map<int,int> mp;
 
@@ -17,7 +17,7 @@ public:
             int val=it->first;
             for(int i=0; i<groupSize; i++){
                 if (mp[val + i] == 0) {
-                    return false; // If a card is missing, return false
+                    return false;
                 }
                 mp[val+i]--;
                 if(mp[val+i]==0)
