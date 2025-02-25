@@ -272,6 +272,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0560-subarray-sum-equals-k) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-hand-of-straights](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [0926-find-and-replace-pattern](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0926-find-and-replace-pattern) |
@@ -489,6 +490,7 @@
 | [0735-asteroid-collision](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0735-asteroid-collision) |
 | [0747-min-cost-climbing-stairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0792-binary-search) |
+| [0876-hand-of-straights](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0890-lemonade-change) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -770,6 +772,7 @@
 | [0502-ipo](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0561-array-partition) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
+| [0876-hand-of-straights](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0876-hand-of-straights) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2179-most-beautiful-item-for-each-query) |
@@ -912,6 +915,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0678-valid-parenthesis-string) |
+| [0876-hand-of-straights](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [1159-smallest-subsequence-of-distinct-characters](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1159-smallest-subsequence-of-distinct-characters) |
