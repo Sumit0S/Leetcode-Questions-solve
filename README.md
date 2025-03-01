@@ -389,6 +389,7 @@
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2551-apply-operations-to-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2551-apply-operations-to-an-array) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2699-count-the-number-of-fair-pairs) |
 | [3195-separate-black-and-white-balls](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3195-separate-black-and-white-balls) |
 ## Stack
@@ -530,6 +531,7 @@
 | [2448-count-number-of-bad-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2448-count-number-of-bad-pairs) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [2545-height-of-binary-tree-after-subtree-removal-queries](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2545-height-of-binary-tree-after-subtree-removal-queries) |
+| [2551-apply-operations-to-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2551-apply-operations-to-an-array) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2554-minimum-total-distance-traveled](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2554-minimum-total-distance-traveled) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2564-most-profitable-path-in-a-tree) |
@@ -661,6 +663,7 @@
 | [0735-asteroid-collision](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0735-asteroid-collision) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2551-apply-operations-to-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2551-apply-operations-to-an-array) |
 ## Sliding Window
 |  |
 | ------- |
