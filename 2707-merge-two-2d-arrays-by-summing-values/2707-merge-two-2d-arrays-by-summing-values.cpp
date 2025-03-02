@@ -2,40 +2,24 @@ class Solution {
 public:
     vector<vector<int>> mergeArrays(vector<vector<int>>& nums1, vector<vector<int>>& nums2) 
     {
+        unordered_map<int,int> mp;
+        for(int i=0; i<nums1.size(); i++){
+            auto val1=nums1[i];
+            mp[val1[0]]=val1[1];
+        }
+
         vector<vector<int>> ans;
-        int l=0; 
-        int r=0;
+        for(auto it:nums2){
+            mp[it[0]]+=it[1];
 
-        while(l<nums1.size() and r<nums2.size())
+        }
+
+        for(auto it:mp)
         {
-            auto it1=nums1[l];
-            auto it2=nums2[r];
-            if(it1[0]==it2[0]){
-                ans.push_back({it1[0],it1[1]+it2[1]});
-                l++;
-                r++;
-            }
-            else if(it1[0]<it2[0]){
-                ans.push_back(it1);
-                l++;
-            }
-            else{
-                ans.push_back(it2);
-                r++;
-            }
+            ans.push_back({it.first,it.second});
         }
 
-        while(l<nums1.size()){
-            auto it1=nums1[l];
-            ans.push_back(it1);
-            l++;
-        }
-
-        while(r<nums2.size()){
-            auto it1=nums2[r];
-            ans.push_back(it1);
-            r++;
-        }
+        sort(ans.begin(),ans.end());
         return ans;
     }
 };
