@@ -363,6 +363,7 @@
 | [2032-largest-odd-number-in-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2032-largest-odd-number-in-string) |
 | [2050-count-good-numbers](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2050-count-good-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2448-count-number-of-bad-pairs) |
+| [2649-count-total-number-of-colored-cells](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2716-prime-subtraction-operation) |
 ## Two Pointers
 |  |
