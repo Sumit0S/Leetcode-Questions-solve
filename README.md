@@ -554,6 +554,7 @@
 | [3227-find-missing-and-repeated-values](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3227-find-missing-and-repeated-values) |
 | [3291-find-if-array-can-be-sorted](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
 ## Backtracking
@@ -587,6 +588,7 @@
 | [3291-find-if-array-can-be-sorted](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3291-find-if-array-can-be-sorted) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
 | [3394-minimum-array-end](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3394-minimum-array-end) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -655,6 +657,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0225-implement-stack-using-queues) |
 | [0239-sliding-window-maximum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0239-sliding-window-maximum) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -695,6 +698,7 @@
 | [1813-maximum-erasure-value](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1813-maximum-erasure-value) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3380-shortest-subarray-with-or-at-least-k-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3380-shortest-subarray-with-or-at-least-k-ii) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Heap (Priority Queue)
@@ -767,6 +771,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 ## Divide and Conquer
 |  |
 | ------- |
