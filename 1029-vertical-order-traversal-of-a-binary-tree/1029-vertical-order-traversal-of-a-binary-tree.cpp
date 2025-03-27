@@ -11,44 +11,86 @@
  */
 class Solution {
 public:
-
     vector<vector<int>> verticalTraversal(TreeNode* root) 
     {
-    if (!root) return {};
-
-    queue<pair<TreeNode*,pair<int,int>>> q;
-    map<int,map<int,vector<int> > > m;
-
-    q.push({root,{0,0}});
-
-    while(!q.empty())
-    {
-        pair<TreeNode*,pair<int,int>> temp=q.front();
-        q.pop();
-        TreeNode* frontnode=temp.first;
-        int lvl=temp.second.first;
-        int hd=temp.second.second;
-
-        m[hd][lvl].push_back(frontnode->val);
-
-        if(frontnode->left){
-            q.push({frontnode->left,{lvl+1,hd-1}});
+       // Map to store nodes based on
+        // vertical and level information
+        map<int, map<int, multiset<int>>> nodes;
+        
+        // Queue for BFS traversal, each
+        // element is a pair containing node
+        // and its vertical and level information
+        queue<pair<TreeNode*, pair<int, int>>> todo;
+        
+        // Push the root node with initial vertical
+        // and level values (0, 0)
+        todo.push({root, {0, 0}});
+        
+        // BFS traversal
+        while(!todo.empty()){
+            // Retrieve the node and its vertical
+            // and level information from
+            // the front of the queue
+            auto p = todo.front();
+            todo.pop();
+            TreeNode* temp = p.first;
+            
+            // Extract the vertical and level information
+            // x -> vertical
+            int x = p.second.first;  
+            // y -> level
+            int y = p.second.second; 
+            
+            // Insert the node value into the
+            // corresponding vertical and level
+            // in the map
+            nodes[x][y].insert(temp->val);
+            
+            // Process left child
+            if(temp->left){
+                todo.push({
+                    temp->left,
+                    {
+                        // Move left in
+                        // terms of vertical
+                        x-1, 
+                        // Move down in
+                        // terms of level
+                        y+1  
+                    }
+                });
+            }
+            
+            // Process right child
+            if(temp->right){
+                todo.push({
+                    temp->right, 
+                    {
+                        // Move right in
+                        // terms of vertical
+                        x+1, 
+                        // Move down in
+                        // terms of level
+                        y+1  
+                    }
+                });
+            }
         }
-
-        if(frontnode->right){
-            q.push({frontnode->right,{lvl+1,hd+1}});
-        }
-    }
-    vector<vector<int>> ans;
-        for (auto& p : m) {
+        
+        // Prepare the final result vector
+        // by combining values from the map
+        vector<vector<int>> ans;
+        for(auto p: nodes){
             vector<int> col;
-            for (auto& q : p.second) {
-                // Sort the vector of node values to handle the tie in levels
-                sort(q.second.begin(), q.second.end());
+            for(auto q: p.second){
+                // Insert node values
+                // into the column vector
                 col.insert(col.end(), q.second.begin(), q.second.end());
             }
+            // Add the column vector
+            // to the final result
             ans.push_back(col);
         }
-    return ans;
+        return ans;  
     }
 };
