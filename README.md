@@ -273,6 +273,7 @@
 | [0621-task-scheduler](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0621-task-scheduler) |
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0876-hand-of-straights) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -326,6 +327,7 @@
 | [0516-longest-palindromic-subsequence](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0516-longest-palindromic-subsequence) |
 | [0647-palindromic-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0647-palindromic-substrings) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0768-partition-labels) |
 | [0812-rotate-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0812-rotate-string) |
 | [0926-find-and-replace-pattern](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0926-find-and-replace-pattern) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
@@ -392,6 +394,7 @@
 | [0455-assign-cookies](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0455-assign-cookies) |
 | [0647-palindromic-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0647-palindromic-substrings) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0768-partition-labels](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0768-partition-labels) |
 | [1679-shortest-subarray-to-be-removed-to-make-array-sorted](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1679-shortest-subarray-to-be-removed-to-make-array-sorted) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -952,6 +955,7 @@
 | [0632-smallest-range-covering-elements-from-k-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0632-smallest-range-covering-elements-from-k-lists) |
 | [0670-maximum-swap](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0670-maximum-swap) |
 | [0678-valid-parenthesis-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0678-valid-parenthesis-string) |
+| [0768-partition-labels](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0768-partition-labels) |
 | [0876-hand-of-straights](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0876-hand-of-straights) |
 | [0890-lemonade-change](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0890-lemonade-change) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0957-minimum-add-to-make-parentheses-valid) |
