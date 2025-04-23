@@ -1,35 +1,28 @@
 class Solution {
 public:
-    int candy(vector<int>& ratings) {
-    
-        int sum=1;
-        int i=1;
-        while(i<ratings.size())
+    int candy(vector<int>& ratings) 
+    {
+        vector<int> v(ratings.size(),1);
+        vector<int> v2(ratings.size(),1);
+        for(int i=0; i<ratings.size(); i++)
         {
-            if(ratings[i]==ratings[i-1]){
-                sum=sum+1;
-                i++;
-                continue;
-            }
-            int peak=1;
-            while(i< ratings.size() and ratings[i]>ratings[i-1])
+            if(i>0 and (ratings[i-1]<ratings[i]))
             {
-                peak+=1;
-                sum+=peak;
-                i++;
-            }
-            int down=1;
-            while(i< ratings.size() and ratings[i]<ratings[i-1])
-            {
-                sum+=down;
-                down+=1;
-                i++;
-            }
-            if(down>peak){
-                sum+=down-peak;
+                v[i]=v[i-1]+1;
             }
         }
-        
-        return sum;
+
+        for (int i = ratings.size() - 2; i >= 0; i--) {
+            if (ratings[i] > ratings[i + 1])
+                v2[i] = v2[i + 1] + 1;
+        }
+
+        int ans=0;
+
+        for(int i=0; i<ratings.size(); i++){
+            cout<<v2[i]<<" ";
+            ans+=max(v[i],v2[i]);
+        }
+        return ans;
     }
 };
