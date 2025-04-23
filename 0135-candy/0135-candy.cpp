@@ -12,9 +12,16 @@ public:
             }
         }
 
+        int sum=v[ratings.size()-1];
+        int last=1;
         for (int i = ratings.size() - 2; i >= 0; i--) {
-            if (ratings[i] > ratings[i + 1])
-                v2[i] = v2[i + 1] + 1;
+            if (ratings[i] > ratings[i + 1]){
+                last+=1;
+            }
+            else{
+                last=1;
+            }
+            sum+=max(v[i],last);
         }
 
         int ans=0;
@@ -23,6 +30,6 @@ public:
             cout<<v2[i]<<" ";
             ans+=max(v[i],v2[i]);
         }
-        return ans;
+        return sum;
     }
 };
