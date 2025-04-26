@@ -481,6 +481,7 @@
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0229-majority-element-ii) |
+| [0238-product-of-array-except-self](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0239-sliding-window-maximum) |
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0283-move-zeroes) |
@@ -766,6 +767,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0238-product-of-array-except-self) |
 | [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0560-subarray-sum-equals-k) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
