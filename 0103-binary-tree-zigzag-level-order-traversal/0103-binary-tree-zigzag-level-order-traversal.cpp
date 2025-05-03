@@ -11,56 +11,41 @@
  */
 class Solution {
 public:
-    vector<vector<int>> zigzagLevelOrder(TreeNode* root) {
-    vector<vector<int>> ans; 
-        if (root == nullptr) {
-            // If the tree is empty,
-            // return an empty vector
-            return ans; 
+    vector<vector<int>> zigzagLevelOrder(TreeNode* root) 
+    {
+        vector<vector<int>> ans;
+        if(root==NULL){
+            return ans;
         }
-        
-        // Create a queue to store nodes
-        // for level-order traversal
-        queue<TreeNode*> q; 
-        // Push the root node to the queue
-        q.push(root); 
+        queue<TreeNode*> st;
+        st.push(root);
+        bool rev=true;
 
-        while (!q.empty()) {
-            // Get the size of the current level
-            int size = q.size(); 
-            // Create a vector to store
-            // nodes at the current level
-            vector<int> level; 
+        while(!st.empty()){
+            int n=st.size();
+            vector<int> v;
 
-            for (int i = 0; i < size; i++) {
-                // Get the front node in the queue
-                TreeNode* node = q.front(); 
-                // Remove the front node from the queue
-                q.pop(); 
-                // Store the node value
-                // in the current level vector
-                level.push_back(node->val); 
-
-                // Enqueue the child nodes if they exist
-                if (node->left != nullptr) {
-                    q.push(node->left);
+            for(int i=0; i<n; i++){
+                TreeNode* val=st.front();
+                st.pop();
+                v.push_back(val->val);
+                if(val->left){
+                    st.push(val->left);
                 }
-                if (node->right != nullptr) {
-                    q.push(node->right);
+                if(val->right){
+                    st.push(val->right);
                 }
             }
-            // Store the current level
-            // in the answer vector
-            ans.push_back(level); 
-        }
-
-        for(int i=0; i<ans.size(); i++){
-            if(i%2!=0){
-                 std::reverse(ans[i].begin(), ans[i].end());
+            if(rev){
+                rev=false;
+                ans.push_back(v);
+            }
+            else{
+                rev=true;
+                reverse(v.begin(),v.end());
+                ans.push_back(v);
             }
         }
-        // Return the level-order
-        // traversal of the tree
-        return ans; 
+        return ans;
     }
 };
