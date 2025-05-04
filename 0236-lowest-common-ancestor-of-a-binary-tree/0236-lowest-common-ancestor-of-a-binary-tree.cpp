@@ -22,9 +22,8 @@ public:
         else if(right==NULL){
             return left;
         }
-        else{
-            return root;
-        }
+        return root;
+        
     }
     TreeNode* lowestCommonAncestor(TreeNode* root, TreeNode* p, TreeNode* q) 
     {
