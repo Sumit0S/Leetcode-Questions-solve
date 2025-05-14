@@ -297,6 +297,7 @@
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3227-find-missing-and-repeated-values) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## String
 |  |
 | ------- |
@@ -351,6 +352,7 @@
 | [3174-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3174-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3195-separate-black-and-white-balls](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3195-separate-black-and-white-balls) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Math
 |  |
 | ------- |
@@ -372,6 +374,7 @@
 | [2649-count-total-number-of-colored-cells](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2649-count-total-number-of-colored-cells) |
 | [2716-prime-subtraction-operation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2716-prime-subtraction-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3227-find-missing-and-repeated-values) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -628,6 +631,7 @@
 | [2554-minimum-total-distance-traveled](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2554-minimum-total-distance-traveled) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2586-longest-square-streak-in-an-array) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2794-maximum-number-of-moves-in-a-grid) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -944,6 +948,7 @@
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2356-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2356-largest-combination-with-bitwise-and-greater-than-zero) |
 | [2448-count-number-of-bad-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2448-count-number-of-bad-pairs) |
+| [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
 |  |
 | ------- |
