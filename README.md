@@ -567,6 +567,7 @@
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3522-find-the-power-of-k-size-subarrays-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3522-find-the-power-of-k-size-subarrays-i) |
 | [3612-adjacent-increasing-subarrays-detection-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3612-adjacent-increasing-subarrays-detection-i) |
+| [3639-zero-array-transformation-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3639-zero-array-transformation-i) |
 ## Backtracking
 |  |
 | ------- |
@@ -784,6 +785,7 @@
 | [1940-maximum-xor-for-each-query](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3639-zero-array-transformation-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3639-zero-array-transformation-i) |
 ## Divide and Conquer
 |  |
 | ------- |
