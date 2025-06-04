@@ -353,6 +353,7 @@
 | [3195-separate-black-and-white-balls](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3195-separate-black-and-white-balls) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Math
 |  |
 | ------- |
@@ -408,6 +409,7 @@
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3195-separate-black-and-white-balls](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3195-separate-black-and-white-balls) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Stack
 |  |
 | ------- |
@@ -1101,6 +1103,7 @@
 |  |
 | ------- |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
+| [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## String Matching
 |  |
 | ------- |
