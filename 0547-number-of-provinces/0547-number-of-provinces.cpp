@@ -3,7 +3,6 @@ public:
 
     void solve(vector<vector<int>>& v,vector<vector<int>>& isConnected){
         int n=isConnected.size();
-        v.resize(n);
         for(int i=0; i<n; i++){
             for(int j=0; j<isConnected[i].size(); j++){
                 if(isConnected[i][j]==1){
@@ -25,7 +24,7 @@ public:
     int findCircleNum(vector<vector<int>>& isConnected) 
     {
         int n = isConnected.size();
-        vector<vector<int>> v;
+        vector<vector<int>> v(n);
         solve(v,isConnected);
         vector<bool> visited(n,false);
         int cnt=0;
@@ -35,7 +34,7 @@ public:
                 dfs(i, visited, v);
             }
         }
-
+        
         return cnt;
     }
 };
