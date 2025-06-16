@@ -1,42 +1,37 @@
 class Solution {
 public:
-    int shortestPathBinaryMatrix(vector<vector<int>>& grid)
+    int shortestPathBinaryMatrix(vector<vector<int>>& grid) 
     {
-
-        queue<pair<int, pair<int, int>>> q;
-        int n = grid.size();
-        int m = grid[0].size();
-        if (grid[0][0] == 1 || grid[n-1][m-1] == 1) {
+        int n=grid.size();
+        int m=grid[0].size();
+        queue<pair<pair<int,int>,int>> pq;
+        if (grid[0][0] != 0 || grid[n-1][m-1] != 0)
             return -1;
-        }
-        vector<vector<int>> dist(n, vector<int>(m, 1e9));
-        dist[0][0] = 1;
-        q.push({1, {0,0}});
+            
+        pq.push({{0,0},1});
 
+        vector<vector<int>> dist(n,vector<int> (m,INT_MAX));
 
-        int dr[] = {-1, 0, 1, 0, -1, -1, 1, 1}; 
-        int dc[] = {0, 1, 0, -1, -1, 1, -1, 1}; 
+        dist[0][0]=1;
 
-        while(!q.empty()){
-            auto it=q.front();
-            q.pop();
-            int dis=it.first;
-            int row=it.second.first;
-            int col=it.second.second;
+        int drow[8] = {0, -1, -1, -1, 0, 1, 1, 1};
+        int dcol[8] = {-1, -1, 0, 1, 1, 1, 0, -1};
 
-            if (row == n - 1 && col == m - 1) {
-                return dis;
-            }
+        while(!pq.empty()){
+            int row=pq.front().first.first;
+            int col=pq.front().first.second;
+            int wgt=pq.front().second;
+            pq.pop();
+
             for(int i=0; i<8; i++){
-                int nrow=row+dr[i];
-                int ncol=col+dc[i];
-                if(nrow>=0 and nrow<n and ncol>=0 and ncol<m and grid[nrow][ncol]==0 and dis+1<dist[nrow][ncol]){
-     
-                        dist[nrow][ncol]=dis+1;
-                        q.push({dis+1,{nrow,ncol}});
+                int crow=row+drow[i];
+                int ccol=col+dcol[i];
+                if(crow>=0 and crow<n and ccol>=0 and ccol<m and grid[crow][ccol]==0 and 1+wgt<dist[crow][ccol]){
+                    dist[crow][ccol]=1+wgt;
+                    pq.push({{crow,ccol},1+wgt});
                 }
             }
         }
-        return -1;
+        return dist[n-1][m-1] == INT_MAX ? -1 : dist[n-1][m-1];
     }
 };
