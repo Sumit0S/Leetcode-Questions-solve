@@ -548,6 +548,7 @@
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1930-maximum-number-of-consecutive-values-you-can-make](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1930-maximum-number-of-consecutive-values-you-can-make) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1940-maximum-xor-for-each-query) |
+| [2144-maximum-difference-between-increasing-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2170-count-number-of-maximum-bitwise-or-subsets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2170-count-number-of-maximum-bitwise-or-subsets) |
 | [2179-most-beautiful-item-for-each-query](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2179-most-beautiful-item-for-each-query) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2265-partition-array-according-to-given-pivot) |
