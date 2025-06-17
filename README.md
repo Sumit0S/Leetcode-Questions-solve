@@ -1126,4 +1126,8 @@
 |  |
 | ------- |
 | [2716-prime-subtraction-operation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2716-prime-subtraction-operation) |
+## Database
+|  |
+| ------- |
+| [1908-recyclable-and-low-fat-products](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1908-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
