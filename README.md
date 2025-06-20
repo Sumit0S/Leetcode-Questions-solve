@@ -379,6 +379,7 @@
 | [2716-prime-subtraction-operation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2716-prime-subtraction-operation) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3227-find-missing-and-repeated-values) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3630-total-characters-in-string-after-transformations-ii) |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -1135,4 +1136,8 @@
 | [1258-article-views-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1258-article-views-i) |
 | [1827-invalid-tweets](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1827-invalid-tweets) |
 | [1908-recyclable-and-low-fat-products](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1908-recyclable-and-low-fat-products) |
+## Combinatorics
+|  |
+| ------- |
+| [3682-count-the-number-of-arrays-with-k-matching-adjacent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3682-count-the-number-of-arrays-with-k-matching-adjacent-elements) |
 <!---LeetCode Topics End-->
