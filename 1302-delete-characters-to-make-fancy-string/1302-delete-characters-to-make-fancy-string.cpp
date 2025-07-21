@@ -1,30 +1,27 @@
 class Solution {
 public:
     string makeFancyString(string s) {
-        if (s.length() <= 2) {
+        if(s.length()<3){
             return s;
         }
 
-        string result;
-        int count = 1;
+        int n=s.length();
 
-        // Start by adding the first character
-        result += s[0];
-
-        // Iterate from the second character onward
-        for (int i = 1; i < s.length(); i++) {
-            if (s[i] == s[i - 1]) {
-                count++;
-            } else {
-                count = 1;
-            }
-
-            // Only add the character if it doesn't create three in a row
-            if (count < 3) {
-                result += s[i];
+        for(int i=0; i<s.length()-2; i++){
+            char s1=s[i];
+            char s2=s[i+1];
+            char s3=s[i+2];
+            if(s1==s2 and s2==s3){
+                s[i]='*';
             }
         }
 
-        return result;
+        string ans="";
+        for(auto i:s){
+            if(i!='*'){
+                ans.push_back(i);
+            }
+        }
+        return ans;
     }
 };
