@@ -1,13 +1,18 @@
 class Solution {
 public:
-    int missingNumber(vector<int>& nums) {
-        int n=nums.size();
-        int sum,ar_sum=0;
-        for(int i=0; i<n; i++){
-            sum+=i;
-            ar_sum+=nums[i];
+    int missingNumber(vector<int>& nums) 
+    {
+        int n = nums.size();
+
+        int ans =(n*(n+1))/2;
+
+        cout<<ans;
+        int cnt=0;
+
+        for(auto it:nums){
+            cnt+=it;
         }
-        sum+=n;
-        return (sum-ar_sum);
+
+        return ans-cnt;
     }
 };
