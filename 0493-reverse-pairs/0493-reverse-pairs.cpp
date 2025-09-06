@@ -8,8 +8,9 @@ public:
         for(int i=low; i<=mid; i++){
             while(right <=high and (long long)nums[i] > 2LL * nums[right]){
                 right++;
+                temp++;
             }
-            cnt+=(right - (mid + 1));
+            cnt+=temp;
         }
     }
     void merge(vector<int>& nums, int low, int mid, int high) {
