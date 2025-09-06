@@ -506,6 +506,7 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0455-assign-cookies](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0485-max-consecutive-ones) |
+| [0493-reverse-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0496-next-greater-element-i) |
 | [0502-ipo](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0502-ipo) |
 | [0503-next-greater-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0503-next-greater-element-ii) |
@@ -770,6 +771,7 @@
 | [0222-count-complete-tree-nodes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0410-split-array-largest-sum) |
+| [0493-reverse-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0792-binary-search) |
 | [0892-shortest-subarray-with-sum-at-least-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0892-shortest-subarray-with-sum-at-least-k) |
@@ -809,6 +811,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0324-wiggle-sort-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0324-wiggle-sort-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0347-top-k-frequent-elements) |
+| [0493-reverse-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0493-reverse-pairs) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 ## Sorting
 |  |
@@ -856,6 +859,7 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0023-merge-k-sorted-lists) |
+| [0493-reverse-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0493-reverse-pairs) |
 ## Tree
 |  |
 | ------- |
@@ -1150,4 +1154,16 @@
 |  |
 | ------- |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
