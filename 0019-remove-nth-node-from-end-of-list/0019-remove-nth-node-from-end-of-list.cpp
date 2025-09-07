@@ -30,9 +30,9 @@ public:
             temp=temp->next;
             cnt++;
         }
-        if(temp==NULL){
-            return NULL;
-        }
+        // if(temp==NULL){
+        //     return NULL;
+        // }
         if(prev==NULL){
             return temp->next;
         }
