@@ -17,18 +17,16 @@ public:
         }
         ListNode* prev=NULL;
         ListNode* curr=head;
-        ListNode* next1=curr->next;
+        ListNode* next1=NULL;
 
-        while(curr->next!=NULL)
+        while(curr!=NULL)
         {
-            cout<<curr->val<<" ";
+            next1=curr->next;
             curr->next=prev;
             prev=curr;
             curr=next1;
-            next1=next1->next;
             
         }
-        curr->next=prev;
-        return curr;
+        return prev;
     }
 };
