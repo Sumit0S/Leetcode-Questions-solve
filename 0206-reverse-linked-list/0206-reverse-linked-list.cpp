@@ -25,7 +25,7 @@ public:
             curr->next=prev;
             prev=curr;
             curr=next1;
-            next1=curr->next;
+            next1=next1->next;
             
         }
         curr->next=prev;
