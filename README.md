@@ -231,6 +231,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0025-reverse-nodes-in-k-group) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0237-delete-node-in-a-linked-list) |
@@ -265,6 +266,7 @@
 | [0128-longest-consecutive-sequence](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0146-lru-cache) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0229-majority-element-ii) |
@@ -403,6 +405,7 @@
 | [0075-sort-colors](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0088-merge-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0151-reverse-words-in-a-string) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/0283-move-zeroes) |
