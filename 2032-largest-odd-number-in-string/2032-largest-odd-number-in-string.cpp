@@ -1,14 +1,15 @@
 class Solution {
 public:
-
-    string largestOddNumber(string num)
+    string largestOddNumber(string num) 
     {
-        cout<<num.substr(0, num.size());
-        for(int i = num.size() - 1; i >= 0; --i) {
-                if ((num[i] - '0') % 2 != 0) {
-                    return num.substr(0, i + 1);
-                }
+        int n=num.length()-1;
+        while(n>=0){
+            if((num[n]-'0')%2!=0){
+                break;
             }
-            return "";
+            n--;
+        }
+        string ans=num.substr(0,n+1);
+        return ans;
     }
 };
