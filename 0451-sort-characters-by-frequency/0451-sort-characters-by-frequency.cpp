@@ -1,32 +1,31 @@
+class Compare {
+public:
+    bool operator()(const pair<char,int> &a, const pair<char,int> &b) {
+        return a.second<b.second;
+    }
+};
 class Solution {
 public:
-    std::string frequencySort(std::string s) {
-        // Unordered map to store frequency of each character
-        std::unordered_map<char, int> mp;
-        
-        // Priority queue (max-heap) to store pairs of (frequency, character)
-        std::priority_queue<std::pair<int, char>> pq;
-
-        // Count the frequency of each character
-        for (char c : s) {
+    string frequencySort(string s) 
+    {
+        unordered_map<char,int> mp;
+        for(char c:s){
             mp[c]++;
         }
 
-        // Push each character and its frequency to the priority queue
-        for (auto& it : mp) {
-            pq.push({it.second, it.first});
-        }
+        priority_queue<pair<char,int>, vector<pair<char,int>>, Compare> pq;
+        for(auto it : mp) pq.push(it);
 
-        // Construct the result string
-        std::string ans = "";
-        while (!pq.empty()) {
-            // ans += std::string(pq.top().first, pq.top().second);
-            for(int i=0; i<pq.top().first; i++){
-                ans+=pq.top().second;
-            }
+        string ans="";
+        while(!pq.empty()){
+            auto it=pq.top();
             pq.pop();
+            int n=it.second;
+            while(n>0){
+                ans+=it.first;
+                n--;
+            }
         }
-
         return ans;
     }
 };
