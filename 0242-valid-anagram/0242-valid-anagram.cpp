@@ -5,14 +5,26 @@ public:
         if(s.length()!=t.length()){
             return false;
         }
-        sort(s.begin(),s.end());
-        sort(t.begin(),t.end());
-        cout<<s<<" "<<t;
-        for(int i=0; i<s.length(); i++)
+        unordered_map<char,int> mp;
+        for(int i=0; i<min(s.length(),t.length()); i++)
         {
-            if(s[i]!=t[i]){
+            mp[s[i]]++;
+        }
+
+        for(int i=0; i<min(s.length(),t.length()); i++)
+        {
+            if(mp.find(t[i])==mp.end()){
                 return false;
             }
+            if(mp.find(t[i])!=mp.end()){
+                mp[t[i]]--;
+                if(mp[t[i]]==0){
+                    mp.erase(t[i]);
+                }
+            }
+        }
+        if(mp.size()>0){
+            return false;
         }
         return true;
     }
