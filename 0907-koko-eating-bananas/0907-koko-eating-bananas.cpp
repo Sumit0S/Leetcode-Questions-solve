@@ -17,7 +17,7 @@ public:
         int right = *max_element(piles.begin(), piles.end());
         int ans = right;
 
-        while (left < right) 
+        while (left <= right) 
         {
             int mid = left + (right - left) / 2;
             if (canFinish(piles, h, mid)) {
@@ -27,6 +27,6 @@ public:
                 left = mid + 1;
             }
         }
-        return ans;
+        return left;
     }
 };
