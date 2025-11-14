@@ -587,6 +587,7 @@
 | [2564-most-profitable-path-in-a-tree](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2586-longest-square-streak-in-an-array](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2586-longest-square-streak-in-an-array) |
 | [2616-maximal-score-after-applying-k-operations](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2616-maximal-score-after-applying-k-operations) |
+| [2625-increment-submatrices-by-one](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2625-increment-submatrices-by-one) |
 | [2699-count-the-number-of-fair-pairs](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2699-count-the-number-of-fair-pairs) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [2716-prime-subtraction-operation](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2716-prime-subtraction-operation) |
@@ -685,6 +686,7 @@
 | [1171-shortest-path-in-binary-matrix](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1171-shortest-path-in-binary-matrix) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1753-path-with-minimum-effort](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1753-path-with-minimum-effort) |
+| [2625-increment-submatrices-by-one](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2625-increment-submatrices-by-one) |
 | [2794-maximum-number-of-moves-in-a-grid](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2794-maximum-number-of-moves-in-a-grid) |
 | [3227-find-missing-and-repeated-values](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3227-find-missing-and-repeated-values) |
 ## Design
@@ -823,6 +825,7 @@
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [1940-maximum-xor-for-each-query](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/1940-maximum-xor-for-each-query) |
 | [2488-divide-intervals-into-minimum-number-of-groups](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2488-divide-intervals-into-minimum-number-of-groups) |
+| [2625-increment-submatrices-by-one](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/2625-increment-submatrices-by-one) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3639-zero-array-transformation-i](https://github.com/Sumit0S/Leetcode-Questions-solve/tree/master/3639-zero-array-transformation-i) |
 ## Divide and Conquer
