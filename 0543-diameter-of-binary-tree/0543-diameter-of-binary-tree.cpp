@@ -10,24 +10,42 @@
  * };
  */
 class Solution {
-   
 public:
-    int maxheight(TreeNode* root,int &diameter){
+
+    int findansfromleft(TreeNode* node){
+        if(node==NULL){
+            return 0;
+        }
+        int left=findansfromleft(node->left);
+        int right=findansfromleft(node->right);
+
+        return 1+max(left,right);
+    }
+    int findansfromright(TreeNode* node)
+    {
+        if(node==NULL){
+            return 0;
+        }
+        int left=findansfromleft(node->left);
+        int right=findansfromleft(node->right);
+
+        return 1+max(left,right);
+    }
+    int findmaxheigh(TreeNode* root){
         if(root==NULL){
             return 0;
         }
+    
+        int left=findansfromleft(root->left);
+        int right=findansfromright(root->right);
 
-        int left=maxheight(root->left,diameter);
-        int right=maxheight(root->right,diameter);
+        int leftDia=findmaxheigh(root->left);
+        int rightDia=findmaxheigh(root->right);
 
-        diameter=max(diameter,left+right);
-
-
-        return max(left,right)+1;
+        return max({left + right, leftDia, rightDia});
     }
-    int diameterOfBinaryTree(TreeNode* root) {
-        int ans=0;
-        maxheight(root,ans);
-        return ans;
+    int diameterOfBinaryTree(TreeNode* root) 
+    {
+        return findmaxheigh(root);    
     }
 };
